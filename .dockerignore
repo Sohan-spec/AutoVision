@@ -1,10 +1,17 @@
-venv
-dataset
-image
-train_test_split
-misc
-__pycache__
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Notebooks
 *.ipynb
-*.jpg
-*.png
-*.pt
+
+# Git
+.git
+.gitignore
+
+# OS junk
+.DS_Store
+Thumbs.db
