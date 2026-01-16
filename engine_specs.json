@@ -1,0 +1,7808 @@
+{
+  "Audi_Audi_A1_2014": {
+    "displacement": 1.4,
+    "max_speed": 203,
+    "doors": 3,
+    "seats": 4
+  },
+  "Audi_Audi_A1_2012": {
+    "displacement": 1.4,
+    "max_speed": 203,
+    "doors": 3,
+    "seats": 4
+  },
+  "Audi_Audi_A1_2013": {
+    "displacement": 1.4,
+    "max_speed": 203,
+    "doors": 3,
+    "seats": 4
+  },
+  "Audi_Audi_A3_hatchback_2014": {
+    "displacement": 1.8,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A3_hatchback_2013": {
+    "displacement": 1.8,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A3_hatchback_2010": {
+    "displacement": 1.8,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A3_hatchback_2012": {
+    "displacement": 1.8,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A3_sedan_2014": {
+    "displacement": 1.8,
+    "max_speed": 242,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A4L_2013": {
+    "displacement": 1.8,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A4L_2015": {
+    "displacement": 1.8,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A4L_2010": {
+    "displacement": 1.8,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A4L_2012": {
+    "displacement": 1.8,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A4L_2011": {
+    "displacement": 1.8,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A4L_2009": {
+    "displacement": 1.8,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A4_estate_2013": {
+    "displacement": 2.0,
+    "max_speed": 238,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A4_estate_2014": {
+    "displacement": 2.0,
+    "max_speed": 238,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A5_convertible_2014": {
+    "displacement": 2.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_convertible_2012": {
+    "displacement": 2.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_convertible_2010": {
+    "displacement": 2.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_convertible_2013": {
+    "displacement": 2.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_coupe_2009": {
+    "displacement": 2.0,
+    "max_speed": 248,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_coupe_2014": {
+    "displacement": 2.0,
+    "max_speed": 248,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_coupe_2010": {
+    "displacement": 2.0,
+    "max_speed": 248,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_coupe_2013": {
+    "displacement": 2.0,
+    "max_speed": 248,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_coupe_2012": {
+    "displacement": 2.0,
+    "max_speed": 248,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_A5_hatchback_2009": {
+    "displacement": 2.0,
+    "max_speed": 242,
+    "doors": 5,
+    "seats": 4
+  },
+  "Audi_Audi_A5_hatchback_2010": {
+    "displacement": 2.0,
+    "max_speed": 242,
+    "doors": 5,
+    "seats": 4
+  },
+  "Audi_Audi_A5_hatchback_2012": {
+    "displacement": 2.0,
+    "max_speed": 242,
+    "doors": 5,
+    "seats": 4
+  },
+  "Audi_Audi_A5_hatchback_2013": {
+    "displacement": 2.0,
+    "max_speed": 242,
+    "doors": 5,
+    "seats": 4
+  },
+  "Audi_Audi_A5_hatchback_2014": {
+    "displacement": 2.0,
+    "max_speed": 242,
+    "doors": 5,
+    "seats": 4
+  },
+  "Audi_Audi_A6L_2010": {
+    "displacement": 2.0,
+    "max_speed": 228,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A6L_2011": {
+    "displacement": 2.0,
+    "max_speed": 228,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A6L_2012": {
+    "displacement": 2.0,
+    "max_speed": 228,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A6L_2014": {
+    "displacement": 2.0,
+    "max_speed": 228,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A6L_2009": {
+    "displacement": 2.0,
+    "max_speed": 228,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A7_2009": {
+    "displacement": 2.5,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A7_2015": {
+    "displacement": 2.5,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A7_2013": {
+    "displacement": 2.5,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A7_2012": {
+    "displacement": 2.5,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A7_2014": {
+    "displacement": 2.5,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_A8L_2013": {
+    "displacement": 2.5,
+    "max_speed": 237,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A8L_2011": {
+    "displacement": 2.5,
+    "max_speed": 237,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A8L_2009": {
+    "displacement": 2.5,
+    "max_speed": 237,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A8L_2014": {
+    "displacement": 2.5,
+    "max_speed": 237,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A8L_2010": {
+    "displacement": 2.5,
+    "max_speed": 237,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A8L_2015": {
+    "displacement": 2.5,
+    "max_speed": 237,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_A8L_2012": {
+    "displacement": 2.5,
+    "max_speed": 237,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_Q3_2013": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q3_2012": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q3_2015": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q5_2012": {
+    "displacement": 3.0,
+    "max_speed": 234,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q5_2010": {
+    "displacement": 3.0,
+    "max_speed": 234,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q5_2013": {
+    "displacement": 3.0,
+    "max_speed": 234,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q5_2011": {
+    "displacement": 3.0,
+    "max_speed": 234,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q7_2014": {
+    "displacement": 3.0,
+    "max_speed": 222,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q7_2012": {
+    "displacement": 3.0,
+    "max_speed": 222,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q7_2011": {
+    "displacement": 3.0,
+    "max_speed": 222,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q7_2010": {
+    "displacement": 3.0,
+    "max_speed": 222,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_Q7_2013": {
+    "displacement": 3.0,
+    "max_speed": 222,
+    "doors": 5,
+    "seats": 5
+  },
+  "Audi_Audi_S5_convertible_2012": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_S5_convertible_2010": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_S8_2009": {
+    "displacement": 4.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_S8_2015": {
+    "displacement": 4.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_S8_2013": {
+    "displacement": 4.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Audi_Audi_TTS_coupe_2011": {
+    "displacement": 2.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_TTS_coupe_2015": {
+    "displacement": 2.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_TTS_coupe_2013": {
+    "displacement": 2.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_TT_coupe_2014": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_TT_coupe_2015": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_TT_coupe_2011": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "Audi_Audi_TT_coupe_2013": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "BAW_BAW_E_Series_hatchback_2012": {
+    "displacement": 1.3,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "BAW_BAW_E_Series_hatchback_2013": {
+    "displacement": 1.3,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "BAW_BAW_E_Series_sedan_2013": {
+    "displacement": 1.3,
+    "max_speed": 160,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_1_Series_hatchback_2012": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_1_Series_hatchback_2013": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_1_Series_hatchback_2010": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_2_Series_2014": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 2,
+    "seats": 4
+  },
+  "BWM_BWM_3_Series_2011": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_2013": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_2009": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_2012": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_2010": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_2008": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_2014": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_GT_2013": {
+    "displacement": 2.0,
+    "max_speed": 229,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_GT_2014": {
+    "displacement": 2.0,
+    "max_speed": 229,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_convertible_2011": {
+    "displacement": 2.0,
+    "max_speed": 214,
+    "doors": 2,
+    "seats": 4
+  },
+  "BWM_BWM_3_Series_coupe_2011": {
+    "displacement": 2.0,
+    "max_speed": 218,
+    "doors": 2,
+    "seats": 4
+  },
+  "BWM_BWM_3_Series_coupe_2009": {
+    "displacement": 2.0,
+    "max_speed": 218,
+    "doors": 2,
+    "seats": 4
+  },
+  "BWM_BWM_3_Series_estate_2013": {
+    "displacement": 2.0,
+    "max_speed": 228,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_3_Series_estate_2014": {
+    "displacement": 2.0,
+    "max_speed": 228,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_4_Series_convertible_2014": {
+    "displacement": 2.0,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "BWM_BWM_5_Series_2013": {
+    "displacement": 2.0,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_2012": {
+    "displacement": 2.0,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_2014": {
+    "displacement": 2.0,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_2010": {
+    "displacement": 2.0,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_2011": {
+    "displacement": 2.0,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_2009": {
+    "displacement": 2.0,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_GT_2011": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_GT_2014": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_GT_2010": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_5_Series_GT_2013": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_6_Series_2012": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 4
+  },
+  "BWM_BWM_6_Series_2014": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 4
+  },
+  "BWM_BWM_6_Series_2013": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 4
+  },
+  "BWM_BWM_7_Series_2014": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_7_Series_2011": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_7_Series_2013": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_7_Series_2009": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_7_Series_2010": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_7_Series_2015": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_M5_2014": {
+    "displacement": 4.4,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_M5_2012": {
+    "displacement": 4.4,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_M5_2005": {
+    "displacement": 4.4,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "BWM_BWM_X1_2012": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X1_2013": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X1_2010": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X1_2014": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X3_2011": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X3_2013": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X3_2014": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X3_2010": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X3_2012": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X3_2009": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X4_2013": {
+    "displacement": 2.0,
+    "max_speed": 212,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X4_2014": {
+    "displacement": 2.0,
+    "max_speed": 212,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X5_2013": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X5_2008": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X5_2009": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X5_2014": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X5_2011": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X5_2012": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "BWM_BWM_X6_2014": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 4
+  },
+  "BWM_BWM_X6_2013": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 4
+  },
+  "BWM_BWM_X6_2012": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 4
+  },
+  "BWM_BWM_X6_2010": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 4
+  },
+  "BYD_BYD_F0_2012": {
+    "displacement": 1.0,
+    "max_speed": 151,
+    "doors": 5,
+    "seats": 5
+  },
+  "BYD_BYD_F0_2011": {
+    "displacement": 1.0,
+    "max_speed": 151,
+    "doors": 5,
+    "seats": 5
+  },
+  "BYD_BYD_F0_2010": {
+    "displacement": 1.0,
+    "max_speed": 151,
+    "doors": 5,
+    "seats": 5
+  },
+  "BYD_BYD_F0_2009": {
+    "displacement": 1.0,
+    "max_speed": 151,
+    "doors": 5,
+    "seats": 5
+  },
+  "BYD_BYD_F3R_2009": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "BYD_BYD_F3R_2011": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "BYD_BYD_F6_2011": {
+    "displacement": 1.8,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "BYD_BYD_F6_2010": {
+    "displacement": 1.8,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "BYD_BYD_G3_2011": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "BYD_BYD_G3_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "BYD_BYD_L3_2011": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "BYD_BYD_L3_2012": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "BYD_BYD_L3_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "BYD_BYD_M6_2010": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "BYD_BYD_M6_2013": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "BYD_BYD_M6_2011": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "BYD_BYD_S6_2013": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "BYD_BYD_S6_2014": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "BYD_BYD_S6_2011": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Baojun_Baojun_610_2014": {
+    "displacement": 1.5,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Baojun_Baojun_630_2014": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Baojun_Baojun_630_2012": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Baojun_Baojun_630_2013": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Baojun_Baojun_630_2011": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Baojun_Lechi_2008": {
+    "displacement": 1.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Baojun_Lechi_2012": {
+    "displacement": 1.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Baojun_Lechi_2010": {
+    "displacement": 1.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Baojun_Lechi_2009": {
+    "displacement": 1.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_A_Class_2011": {
+    "displacement": 1.6,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_A_Class_2013": {
+    "displacement": 1.6,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_2015": {
+    "displacement": 1.8,
+    "max_speed": 226,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_2014": {
+    "displacement": 1.8,
+    "max_speed": 226,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_2011": {
+    "displacement": 1.8,
+    "max_speed": 226,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_2013": {
+    "displacement": 1.8,
+    "max_speed": 226,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_AMG_2012": {
+    "displacement": 6.2,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_AMG_2010": {
+    "displacement": 6.2,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_AMG_2014": {
+    "displacement": 6.2,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_AMG_2009": {
+    "displacement": 6.2,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_estate_2014": {
+    "displacement": 1.8,
+    "max_speed": 226,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_estate_2011": {
+    "displacement": 1.8,
+    "max_speed": 226,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_C_Class_estate_2010": {
+    "displacement": 1.8,
+    "max_speed": 226,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_E_Class_2013": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_2011": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_2014": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_2009": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_2010": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_2012": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_2015": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_convertible_2014": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_convertible_2011": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_convertible_2010": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_convertible_2013": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_convertible_2012": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_couple_2010": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_couple_2009": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_couple_2012": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_couple_2014": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_E_Class_couple_2011": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 2,
+    "seats": 4
+  },
+  "Benz_Benz_GLK_Class_2014": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_GLK_Class_2008": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_GLK_Class_2013": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_GLK_Class_2010": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_GLK_Class_2012": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_GLK_Class_2011": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_GL_Class_2011": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 5,
+    "seats": 7
+  },
+  "Benz_Benz_GL_Class_2013": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 5,
+    "seats": 7
+  },
+  "Benz_Benz_GL_Class_2012": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 5,
+    "seats": 7
+  },
+  "Benz_Benz_GL_Class_2014": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 5,
+    "seats": 7
+  },
+  "Benz_Benz_G_Class_AMG_2009": {
+    "displacement": 5.5,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_G_Class_AMG_2013": {
+    "displacement": 5.5,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Benz_Benz_R_Class_2014": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 7
+  },
+  "Benz_Benz_R_Class_2011": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 7
+  },
+  "Benz_Benz_R_Class_2010": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 7
+  },
+  "Benz_Benz_SLK_Class_2010": {
+    "displacement": 1.8,
+    "max_speed": 237,
+    "doors": 2,
+    "seats": 2
+  },
+  "Benz_Benz_SLK_Class_2011": {
+    "displacement": 1.8,
+    "max_speed": 237,
+    "doors": 2,
+    "seats": 2
+  },
+  "Benz_Benz_SLK_Class_2009": {
+    "displacement": 1.8,
+    "max_speed": 237,
+    "doors": 2,
+    "seats": 2
+  },
+  "Benz_Benz_S_Class_2012": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_S_Class_2014": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_S_Class_2010": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Benz_Benz_S_Class_2011": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B50_2009": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B50_2012": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B50_2011": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B50_2013": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B70_2012": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B70_2009": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B70_2014": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B70_2010": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B70_2011": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B90_2012": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_B90_2014": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Besturn_Besturn_X80_2013": {
+    "displacement": 1.8,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "Besturn_Besturn_X80_2015": {
+    "displacement": 1.8,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "Brabus_Brabus_S_Class_2013": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Brabus_Brabus_S_Class_2011": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Brabus_Brabus_S_Class_2014": {
+    "displacement": 3.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Buick_GL8_Business_2011": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Buick_GL8_Business_2012": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Buick_GL8_Business_2013": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Buick_GL8_Business_2014": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Buick_GL8_Business_2008": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Buick_GL8_Luxury_Business_2014": {
+    "displacement": 2.4,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Buick_GL8_Luxury_Business_2013": {
+    "displacement": 2.4,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Buick_GL8_Luxury_Business_2011": {
+    "displacement": 2.4,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_EXCELLE__GT_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_EXCELLE__GT_2012": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_EXCELLE__GT_2011": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_EXCELLE__GT_2010": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_EXCELLE__XT_2012": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Buck_EXCELLE__XT_2010": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Buck_EXCELLE__XT_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Buck_EXCELLE__XT_2014": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Buck_Enclave_2013": {
+    "displacement": 3.6,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Enclave_2010": {
+    "displacement": 3.6,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Enclave_2014": {
+    "displacement": 3.6,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 7
+  },
+  "Buck_Exclle_2013": {
+    "displacement": 1.5,
+    "max_speed": 177,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Exclle_2011": {
+    "displacement": 1.5,
+    "max_speed": 177,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Lacrosse_2014": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Lacrosse_2009": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Lacrosse_2013": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Lacrosse_2008": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Lacrosse_2012": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Lacrosse_2010": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Lacrosse_2011": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_2012": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_2011": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_2009": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_2013": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_2010": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_2014": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_GS_2014": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_GS_2011": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_GS_2012": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_Regal_GS_2013": {
+    "displacement": 2.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Buck_encore_2013": {
+    "displacement": 1.4,
+    "max_speed": 192,
+    "doors": 5,
+    "seats": 5
+  },
+  "Buck_encore_2014": {
+    "displacement": 1.4,
+    "max_speed": 192,
+    "doors": 5,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_ATS-L_2014": {
+    "displacement": 2.0,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_CTS_2013": {
+    "displacement": 2.0,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_CTS_2010": {
+    "displacement": 2.0,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_CTS_2009": {
+    "displacement": 2.0,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_CTS_2012": {
+    "displacement": 2.0,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_CTS_2014": {
+    "displacement": 2.0,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_CTS_2011": {
+    "displacement": 2.0,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_SRX_2014": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_SRX_2010": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_SRX_2012": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_SRX_2013": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Cadillac_Cadillac_SRX_2011": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Cadillac_Seville_SLS_2009": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Seville_SLS_2011": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Seville_SLS_2010": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Cadillac_Seville_SLS_2012": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Benben_2014": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Benben_LOVE_2010": {
+    "displacement": 1.3,
+    "max_speed": 145,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Benben_MINI_2011": {
+    "displacement": 1.0,
+    "max_speed": 158,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Benben_MINI_2010": {
+    "displacement": 1.0,
+    "max_speed": 158,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Benben_MINI_2012": {
+    "displacement": 1.0,
+    "max_speed": 158,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Changan_CS35_2014": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Changan_CS35_2012": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Changan_CX20_2011": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Changan_CX20_2014": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Ruiping_2013": {
+    "displacement": 1.8,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Yidong_2012": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Yidong_2013": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Yidong_2014": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Yuexiang_V3_2012": {
+    "displacement": 1.3,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Yuexiang_V5_2012": {
+    "displacement": 1.5,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Yuexiang_hatchback_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Yuexiang_sedan_2009": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Yuexiang_sedan_2012": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Yuexiang_sedan_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Changan_Zhishang_XT_2013": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Changan_Zhixiang_2008": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_AVEO_hatchback_2011": {
+    "displacement": 1.4,
+    "max_speed": 176,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_AVEO_hatchback_2014": {
+    "displacement": 1.4,
+    "max_speed": 176,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Aveo_2009": {
+    "displacement": 1.2,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Aveo_2010": {
+    "displacement": 1.2,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Aveo_sedan_2013": {
+    "displacement": 1.4,
+    "max_speed": 176,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Aveo_sedan_2011": {
+    "displacement": 1.4,
+    "max_speed": 176,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Aveo_sedan_2014": {
+    "displacement": 1.4,
+    "max_speed": 176,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Camaro_2011": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Chevy_Camaro_2010": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Chevy_Camaro_2014": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Chevy_Camaro_2012": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 2,
+    "seats": 4
+  },
+  "Chevy_Captiva_2011": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Captiva_2014": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Captiva_2012": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Captiva_2010": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Captiva_2013": {
+    "displacement": 2.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Cruze_hatchback_2013": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Cruze_sedan_2009": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Cruze_sedan_2015": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Cruze_sedan_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Cruze_sedan_2014": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Cruze_sedan_2011": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Cruze_sedan_2010": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Cruze_sedan_2012": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Epica_2012": {
+    "displacement": 1.8,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Epica_2013": {
+    "displacement": 1.8,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Epica_2010": {
+    "displacement": 1.8,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Epica_2011": {
+    "displacement": 1.8,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Lova_2009": {
+    "displacement": 1.4,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Lova_2010": {
+    "displacement": 1.4,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Sail_hatchback_2010": {
+    "displacement": 1.2,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Sail_hatchback_2011": {
+    "displacement": 1.2,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Sail_hatchback_2013": {
+    "displacement": 1.2,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chevy_Sail_sedan_2013": {
+    "displacement": 1.2,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Sail_sedan_2010": {
+    "displacement": 1.2,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Sail_sedan_2011": {
+    "displacement": 1.2,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chevy_Trax_2014": {
+    "displacement": 1.4,
+    "max_speed": 192,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Arrizo_7_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrey_Chrey_A3_hatchback_2008": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_A3_hatchback_2010": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_A3_hatchback_2011": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_A3_sedan_2011": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrey_Chrey_A3_sedan_2012": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrey_Chrey_A3_sedan_2010": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrey_Chrey_E5_2012": {
+    "displacement": 1.5,
+    "max_speed": 172,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrey_Chrey_E5_2011": {
+    "displacement": 1.5,
+    "max_speed": 172,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrey_Chrey_E5_2014": {
+    "displacement": 1.5,
+    "max_speed": 172,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrey_Chrey_QQ_2013": {
+    "displacement": 1.0,
+    "max_speed": 150,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_QQ3_2011": {
+    "displacement": 0.8,
+    "max_speed": 130,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_QQ3_2009": {
+    "displacement": 0.8,
+    "max_speed": 130,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_QQ3_2012": {
+    "displacement": 0.8,
+    "max_speed": 130,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_QQ3_2010": {
+    "displacement": 0.8,
+    "max_speed": 130,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_X1_2010": {
+    "displacement": 1.3,
+    "max_speed": 150,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Chrey_X1_2012": {
+    "displacement": 1.3,
+    "max_speed": 150,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Cowin_2_2012": {
+    "displacement": 1.5,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Cowin_2_2010": {
+    "displacement": 1.5,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Cowin_3_2010": {
+    "displacement": 1.5,
+    "max_speed": 172,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Eastar_Cross_2009": {
+    "displacement": 1.8,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 7
+  },
+  "Chrey_Fulwin_2_hatchback_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Fulwin_2_hatchback_2013": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Fulwin_2_sedan_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Fulwin_2_sedan_2013": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Tiggo_2012": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Tiggo_2011": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Tiggo_2010": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Tiggo_2009": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrey_Tiggo_5_2014": {
+    "displacement": 2.0,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Chrysler_Chrysler_300C_2012": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrysler_Chrysler_300C_2014": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Chrysler_Chrysler_300C_2013": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_Citroen_C2_2012": {
+    "displacement": 1.4,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Citroen_Citroen_C2_2010": {
+    "displacement": 1.4,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Citroen_Elysee_2014": {
+    "displacement": 1.6,
+    "max_speed": 193,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_Quatre_hatchback_2011": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Citroen_Quatre_hatchback_2010": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Citroen_Quatre_hatchback_2008": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Citroen_Quatre_hatchback_2012": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Citroen_Quatre_hatchback_2013": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Citroen_Quatre_sedan_2009": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_Quatre_sedan_2010": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_Quatre_sedan_2014": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_Quatre_sedan_2013": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_Quatre_sedan_2012": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_Quatre_sedan_2011": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_c-Elysee_sedan_2011": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_c-Elysee_sedan_2012": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_c-Elysee_sedan_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_c-Elysee_sedan_2010": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Citroen_c-Elysee_sedan_2008": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "DS_DS_3_2014": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 3,
+    "seats": 5
+  },
+  "DS_DS_3_2013": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 3,
+    "seats": 5
+  },
+  "DS_DS_3_2012": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 3,
+    "seats": 5
+  },
+  "DS_DS_4_2012": {
+    "displacement": 1.6,
+    "max_speed": 212,
+    "doors": 5,
+    "seats": 5
+  },
+  "DS_DS_5_2014": {
+    "displacement": 1.6,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "DS_DS_5_2013": {
+    "displacement": 1.6,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "DS_DS_5_2012": {
+    "displacement": 1.6,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "DS_DS_5LS_2014": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengdu_Shuaike_2013": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengdu_Shuaike_2011": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengdu_Shuaike_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengdu_Shuaike_2014": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengdu_Shuaike_2012": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_A60_2012": {
+    "displacement": 1.5,
+    "max_speed": 186,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_A60_2014": {
+    "displacement": 1.5,
+    "max_speed": 186,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_CROSS_2012": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_CROSS_2014": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_CROSS_2013": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_CROSS_2011": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_H30_2010": {
+    "displacement": 1.6,
+    "max_speed": 183,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_H30_2011": {
+    "displacement": 1.6,
+    "max_speed": 183,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_H30_2012": {
+    "displacement": 1.6,
+    "max_speed": 183,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_S30_2009": {
+    "displacement": 1.5,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_S30_2011": {
+    "displacement": 1.5,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_S30_2012": {
+    "displacement": 1.5,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_S30_2014": {
+    "displacement": 1.5,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengshen_Fengshen_S30_2013": {
+    "displacement": 1.5,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengxing_Jingyi_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengxing_Jingyi_2011": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengxing_Jingyi_2012": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Dongfengfengxing_Lingzhi_2013": {
+    "displacement": 1.5,
+    "max_speed": 145,
+    "doors": 4,
+    "seats": 5
+  },
+  "Dongfengfengxing_Lingzhi_2011": {
+    "displacement": 1.5,
+    "max_speed": 145,
+    "doors": 4,
+    "seats": 5
+  },
+  "Everus_Linian_S1_2014": {
+    "displacement": 1.3,
+    "max_speed": 168,
+    "doors": 4,
+    "seats": 5
+  },
+  "Everus_Linian_S1_2011": {
+    "displacement": 1.3,
+    "max_speed": 168,
+    "doors": 4,
+    "seats": 5
+  },
+  "Everus_Linian_S1_2013": {
+    "displacement": 1.3,
+    "max_speed": 168,
+    "doors": 4,
+    "seats": 5
+  },
+  "FIAT_Bravo_2008": {
+    "displacement": 1.4,
+    "max_speed": 197,
+    "doors": 5,
+    "seats": 5
+  },
+  "FIAT_Bravo_2011": {
+    "displacement": 1.4,
+    "max_speed": 197,
+    "doors": 5,
+    "seats": 5
+  },
+  "FIAT_FIAT_500_2014": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 3,
+    "seats": 4
+  },
+  "FIAT_FIAT_500_2009": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 3,
+    "seats": 4
+  },
+  "FIAT_FIAT_500_2013": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 3,
+    "seats": 4
+  },
+  "FIAT_FIAT_500_2011": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 3,
+    "seats": 4
+  },
+  "FIAT_FIAT_500_2012": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 3,
+    "seats": 4
+  },
+  "FIAT_Feixiang_2014": {
+    "displacement": 1.4,
+    "max_speed": 196,
+    "doors": 4,
+    "seats": 5
+  },
+  "FIAT_Feixiang_2012": {
+    "displacement": 1.4,
+    "max_speed": 196,
+    "doors": 4,
+    "seats": 5
+  },
+  "FIAT_Zhiyue_2014": {
+    "displacement": 1.4,
+    "max_speed": 196,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Classic_Focus_hatchback_2008": {
+    "displacement": 1.8,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Classic_Focus_hatchback_2013": {
+    "displacement": 1.8,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Classic_Focus_hatchback_2011": {
+    "displacement": 1.8,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Classic_Focus_hatchback_2012": {
+    "displacement": 1.8,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Classic_Focus_sedan_2008": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Classic_Focus_sedan_2012": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Classic_Focus_sedan_2013": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Classic_Focus_sedan_2011": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Fiesta_hatchback_2014": {
+    "displacement": 1.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Fiesta_hatchback_2013": {
+    "displacement": 1.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Fiesta_hatchback_2009": {
+    "displacement": 1.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Fiesta_hatchback_2011": {
+    "displacement": 1.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Fiesta_hatchback_2010": {
+    "displacement": 1.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Fiesta_hatchback_2012": {
+    "displacement": 1.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Fiesta_sedan_2010": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Fiesta_sedan_2013": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Fiesta_sedan_2009": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Fiesta_sedan_2011": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Focus_ST_2013": {
+    "displacement": 2.0,
+    "max_speed": 248,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Focus_ST_2014": {
+    "displacement": 2.0,
+    "max_speed": 248,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_Mendeo_Zhisheng_2011": {
+    "displacement": 2.3,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Mendeo_Zhisheng_2013": {
+    "displacement": 2.3,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Mendeo_Zhisheng_2010": {
+    "displacement": 2.3,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_Mustang_2012": {
+    "displacement": 3.7,
+    "max_speed": 260,
+    "doors": 2,
+    "seats": 4
+  },
+  "Ford_Mustang_2015": {
+    "displacement": 3.7,
+    "max_speed": 260,
+    "doors": 2,
+    "seats": 4
+  },
+  "Ford_Mustang_2014": {
+    "displacement": 3.7,
+    "max_speed": 260,
+    "doors": 2,
+    "seats": 4
+  },
+  "Ford_Mustang_2013": {
+    "displacement": 3.7,
+    "max_speed": 260,
+    "doors": 2,
+    "seats": 4
+  },
+  "Ford_New_Focus_hatchback_2012": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Ford_New_Focus_sedan_2012": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ford_S-MAX_2008": {
+    "displacement": 2.3,
+    "max_speed": 186,
+    "doors": 5,
+    "seats": 5
+  },
+  "Fuqiqiteng_Qiteng_M70_2014": {
+    "displacement": 1.2,
+    "max_speed": 130,
+    "doors": 5,
+    "seats": 5
+  },
+  "GAC_Saboo_GX5_2012": {
+    "displacement": 2.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Geely_Classic_Imperial_hatchback_2009": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Geely_Classic_Imperial_hatchback_2013": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Geely_Classic_Imperial_hatchback_2012": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Geely_Classic_Imperial_hatchback_2010": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Geely_Classic_Imperial_sedan_2009": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Classic_Imperial_sedan_2010": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Classic_Imperial_sedan_2012": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Classic_Imperial_sedan_2013": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Geely_EC8_2010": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Geely_EC8_2013": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Geely_EC8_2011": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Geely_SC7_2011": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Geely_SC7_2014": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Geely_SC7_2010": {
+    "displacement": 1.5,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_King_Kong_sedan_2014": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_King_Kong_sedan_2007": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_King_Kong_sedan_2009": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_King_Kong_sedan_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_King_Kong_sedan_2013": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Ziyoujian_2011": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Ziyoujian_2010": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 4,
+    "seats": 5
+  },
+  "Geely_Ziyoujian_2012": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 4,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_C50_2013": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_C50_2012": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_C50_2014": {
+    "displacement": 1.5,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_M2_2013": {
+    "displacement": 1.5,
+    "max_speed": 158,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_M2_2010": {
+    "displacement": 1.5,
+    "max_speed": 158,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_M2_2012": {
+    "displacement": 1.5,
+    "max_speed": 158,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_M4_2012": {
+    "displacement": 1.5,
+    "max_speed": 171,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_M4_2014": {
+    "displacement": 1.5,
+    "max_speed": 171,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_M4_2013": {
+    "displacement": 1.5,
+    "max_speed": 171,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Great_Wall_V80_2009": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 7
+  },
+  "GreatWall_Great_Wall_V80_2012": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 7
+  },
+  "GreatWall_Great_Wall_V80_2011": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 7
+  },
+  "GreatWall_Wingle_5_2013": {
+    "displacement": 2.0,
+    "max_speed": 140,
+    "doors": 4,
+    "seats": 5
+  },
+  "GreatWall_Wingle_5_2011": {
+    "displacement": 2.0,
+    "max_speed": 140,
+    "doors": 4,
+    "seats": 5
+  },
+  "GreatWall_Xuanli_2010": {
+    "displacement": 1.3,
+    "max_speed": 162,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Xuanli_2008": {
+    "displacement": 1.3,
+    "max_speed": 162,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Xuanli_CROSS_2010": {
+    "displacement": 1.3,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "GreatWall_Xuanli_CROSS_2011": {
+    "displacement": 1.3,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Guangqichuanqi_Chuanqi_GS5_2014": {
+    "displacement": 1.8,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Guangqichuanqi_Chuanqi_GS5_2012": {
+    "displacement": 1.8,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Guangqichuanqi_Chuanqi_GS5_2013": {
+    "displacement": 1.8,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Family_M5_2014": {
+    "displacement": 1.6,
+    "max_speed": 165,
+    "doors": 4,
+    "seats": 5
+  },
+  "Haima_Haima_M3_2014": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Haima_Haima_M3_2013": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Haima_Haima_S5_2014": {
+    "displacement": 1.6,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Haima_S7_2013": {
+    "displacement": 2.0,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Haimaqishi_2010": {
+    "displacement": 2.0,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Haimaqishi_2013": {
+    "displacement": 2.0,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Haimaqishi_2012": {
+    "displacement": 2.0,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Haydo_2010": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Haydo_2008": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Premacy_2012": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 7
+  },
+  "Haima_Premacy_2010": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 7
+  },
+  "Haima_Premacy_2013": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 7
+  },
+  "Haima_Premacy_2014": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 7
+  },
+  "Haima_Premacy_2009": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 7
+  },
+  "Haima_Qiubite_2010": {
+    "displacement": 1.3,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Qiubite_2011": {
+    "displacement": 1.3,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Qiubite_2013": {
+    "displacement": 1.3,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haima_Qiubite_2012": {
+    "displacement": 1.3,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haval_Haval_H3_2010": {
+    "displacement": 2.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haval_Haval_H3_2007": {
+    "displacement": 2.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haval_Haval_H3_2008": {
+    "displacement": 2.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haval_Haval_H3_2012": {
+    "displacement": 2.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Haval_Haval_H3_2009": {
+    "displacement": 2.0,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Civic_2013": {
+    "displacement": 1.8,
+    "max_speed": 199,
+    "doors": 4,
+    "seats": 5
+  },
+  "Honda_Civic_2009": {
+    "displacement": 1.8,
+    "max_speed": 199,
+    "doors": 4,
+    "seats": 5
+  },
+  "Honda_Civic_2015": {
+    "displacement": 1.8,
+    "max_speed": 199,
+    "doors": 4,
+    "seats": 5
+  },
+  "Honda_Civic_2014": {
+    "displacement": 1.8,
+    "max_speed": 199,
+    "doors": 4,
+    "seats": 5
+  },
+  "Honda_Civic_2012": {
+    "displacement": 1.8,
+    "max_speed": 199,
+    "doors": 4,
+    "seats": 5
+  },
+  "Honda_Crider_2013": {
+    "displacement": 1.8,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Honda_Crosstour_2012": {
+    "displacement": 2.4,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Crosstour_2011": {
+    "displacement": 2.4,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Crosstour_2014": {
+    "displacement": 2.4,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Crosstour_2013": {
+    "displacement": 2.4,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Honda_CR-V_2010": {
+    "displacement": 2.0,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Honda_CR-V_2013": {
+    "displacement": 2.0,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Honda_CR-V_2012": {
+    "displacement": 2.0,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Jade_2013": {
+    "displacement": 1.8,
+    "max_speed": 187,
+    "doors": 5,
+    "seats": 5
+  },
+  "Honda_Spirior_2009": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Honda_Spirior_2014": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Honda_Spirior_2013": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Huatai_Lusheng_E70_2013": {
+    "displacement": 2.0,
+    "max_speed": 178,
+    "doors": 4,
+    "seats": 5
+  },
+  "Huatai_Lusheng_E70_2011": {
+    "displacement": 2.0,
+    "max_speed": 178,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Avante_2012": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Elantra_Yuedong_2011": {
+    "displacement": 1.6,
+    "max_speed": 187,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Elantra_Yuedong_2010": {
+    "displacement": 1.6,
+    "max_speed": 187,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Equus_2014": {
+    "displacement": 3.8,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Equus_2010": {
+    "displacement": 3.8,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Equus_2012": {
+    "displacement": 3.8,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Mistra_2014": {
+    "displacement": 1.8,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Moinca_2009": {
+    "displacement": 1.8,
+    "max_speed": 183,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Rena_2010": {
+    "displacement": 1.4,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Rena_2014": {
+    "displacement": 1.4,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Rohens_2012": {
+    "displacement": 3.0,
+    "max_speed": 236,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Rohens_2013": {
+    "displacement": 3.0,
+    "max_speed": 236,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Rohens_2008": {
+    "displacement": 3.0,
+    "max_speed": 236,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Santafe_2013": {
+    "displacement": 2.2,
+    "max_speed": 0,
+    "doors": 5,
+    "seats": 7
+  },
+  "Hyundai_Santafe_2008": {
+    "displacement": 2.2,
+    "max_speed": 0,
+    "doors": 5,
+    "seats": 7
+  },
+  "Hyundai_Santafe_2010": {
+    "displacement": 2.2,
+    "max_speed": 0,
+    "doors": 5,
+    "seats": 7
+  },
+  "Hyundai_Santafe_2011": {
+    "displacement": 2.2,
+    "max_speed": 0,
+    "doors": 5,
+    "seats": 7
+  },
+  "Hyundai_Santafe_2012": {
+    "displacement": 2.2,
+    "max_speed": 0,
+    "doors": 5,
+    "seats": 7
+  },
+  "Hyundai_Sonata_2009": {
+    "displacement": 2.0,
+    "max_speed": 204,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Sonata_8_2011": {
+    "displacement": 2.0,
+    "max_speed": 196,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Sonata_8_2014": {
+    "displacement": 2.0,
+    "max_speed": 196,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Sonata_8_2013": {
+    "displacement": 2.0,
+    "max_speed": 196,
+    "doors": 4,
+    "seats": 5
+  },
+  "Hyundai_Veloster_2012": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 4
+  },
+  "Hyundai_Veloster_2011": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 4
+  },
+  "Hyundai_Veloster_2014": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 4
+  },
+  "Hyundai_Verna_2011": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Hyundai_Verna_2014": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Hyundai_i30_2009": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Hyundai_i30_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Hyundai_ix35_2010": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Hyundai_ix35_2013": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_G_Class_2013": {
+    "displacement": 2.5,
+    "max_speed": 249,
+    "doors": 4,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_G_Class_2010": {
+    "displacement": 2.5,
+    "max_speed": 249,
+    "doors": 4,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_Q50_2014": {
+    "displacement": 2.0,
+    "max_speed": 245,
+    "doors": 4,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_Q70L_2011": {
+    "displacement": 2.5,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_Q70L_2009": {
+    "displacement": 2.5,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_Q70L_2012": {
+    "displacement": 2.5,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_Q70L_2014": {
+    "displacement": 2.5,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_Q70L_2013": {
+    "displacement": 2.5,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX50_2013": {
+    "displacement": 2.5,
+    "max_speed": 215,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX50_2010": {
+    "displacement": 2.5,
+    "max_speed": 215,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX50_2008": {
+    "displacement": 2.5,
+    "max_speed": 215,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX50_2009": {
+    "displacement": 2.5,
+    "max_speed": 215,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX50_2014": {
+    "displacement": 2.5,
+    "max_speed": 215,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX50_2011": {
+    "displacement": 2.5,
+    "max_speed": 215,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX70_2010": {
+    "displacement": 3.7,
+    "max_speed": 220,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX70_2011": {
+    "displacement": 3.7,
+    "max_speed": 220,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX70_2013": {
+    "displacement": 3.7,
+    "max_speed": 220,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX70_2009": {
+    "displacement": 3.7,
+    "max_speed": 220,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX70_2015": {
+    "displacement": 3.7,
+    "max_speed": 220,
+    "doors": 5,
+    "seats": 5
+  },
+  "Infiniti_Infiniti_QX80_2014": {
+    "displacement": 5.6,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 7
+  },
+  "Infiniti_Infiniti_QX80_2011": {
+    "displacement": 5.6,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 7
+  },
+  "Infiniti_Infiniti_QX80_2013": {
+    "displacement": 5.6,
+    "max_speed": 240,
+    "doors": 5,
+    "seats": 7
+  },
+  "Jaguar_Gaguar_XF_2015": {
+    "displacement": 2.0,
+    "max_speed": 209,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XF_2013": {
+    "displacement": 2.0,
+    "max_speed": 209,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XF_2011": {
+    "displacement": 2.0,
+    "max_speed": 209,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XF_2012": {
+    "displacement": 2.0,
+    "max_speed": 209,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XF_2014": {
+    "displacement": 2.0,
+    "max_speed": 209,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XF_2009": {
+    "displacement": 2.0,
+    "max_speed": 209,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XJ_2010": {
+    "displacement": 2.0,
+    "max_speed": 241,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XJ_2014": {
+    "displacement": 2.0,
+    "max_speed": 241,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XJ_2013": {
+    "displacement": 2.0,
+    "max_speed": 241,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XJ_2012": {
+    "displacement": 2.0,
+    "max_speed": 241,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jaguar_Gaguar_XJ_2011": {
+    "displacement": 2.0,
+    "max_speed": 241,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jeep_Compass_2014": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Compass_2009": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Compass_2013": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Compass_2011": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Compass_2010": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Compass_2012": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Patriot_2011": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Patriot_2013": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Patriot_2014": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Patriot_2012": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Patriot_2009": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jeep_Wrangler_2013": {
+    "displacement": 2.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jeep_Wrangler_2009": {
+    "displacement": 2.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jeep_Wrangler_2011": {
+    "displacement": 2.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jeep_Wrangler_2012": {
+    "displacement": 2.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jeep_Wrangler_2014": {
+    "displacement": 2.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jeep_Wrangler_2010": {
+    "displacement": 2.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Binyue_2009": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Binyue_2010": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Binyue_2011": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_2012": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_2014": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_2011": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_2010": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_2009": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_RS_2011": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_RS_2013": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_RS_2009": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_RS_2010": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Heyue_RS_2012": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Ruifeng_M5_2011": {
+    "displacement": 2.0,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 7
+  },
+  "Jianghuai_Ruifeng_M5_2014": {
+    "displacement": 2.0,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 7
+  },
+  "Jianghuai_Ruifeng_M5_2012": {
+    "displacement": 2.0,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 7
+  },
+  "Jianghuai_Ruifeng_S5_2013": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Ruifeng_S5_2012": {
+    "displacement": 2.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Ruiying_2011": {
+    "displacement": 2.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Ruiying_2013": {
+    "displacement": 2.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Ruiying_2010": {
+    "displacement": 2.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Ruiying_2012": {
+    "displacement": 2.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jianghuai_Tongyue_2009": {
+    "displacement": 1.3,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Tongyue_2012": {
+    "displacement": 1.3,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Tongyue_2008": {
+    "displacement": 1.3,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jianghuai_Tongyue_2010": {
+    "displacement": 1.3,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Jinbei_Dahaishi_2011": {
+    "displacement": 2.4,
+    "max_speed": 140,
+    "doors": 4,
+    "seats": 12
+  },
+  "Jinbei_Dahaishi_2012": {
+    "displacement": 2.4,
+    "max_speed": 140,
+    "doors": 4,
+    "seats": 12
+  },
+  "Jinbei_Dahaishi_2013": {
+    "displacement": 2.4,
+    "max_speed": 140,
+    "doors": 4,
+    "seats": 12
+  },
+  "Jonway_Yongyuan_A380_2013": {
+    "displacement": 1.6,
+    "max_speed": 150,
+    "doors": 5,
+    "seats": 5
+  },
+  "Jonway_Yongyuan_A380_2012": {
+    "displacement": 1.6,
+    "max_speed": 150,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Borrego_2008": {
+    "displacement": 3.8,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 7
+  },
+  "KIA_Borrego_2013": {
+    "displacement": 3.8,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 7
+  },
+  "KIA_Forte_2011": {
+    "displacement": 1.6,
+    "max_speed": 189,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_Forte_2014": {
+    "displacement": 1.6,
+    "max_speed": 189,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_Forte_2009": {
+    "displacement": 1.6,
+    "max_speed": 189,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_Forte_2012": {
+    "displacement": 1.6,
+    "max_speed": 189,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_KIA_K2_sedan_2011": {
+    "displacement": 1.4,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_KIA_K2_sedan_2012": {
+    "displacement": 1.4,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_KIA_K3_2013": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_KIA_K3S_2014": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_KIA_K5_2014": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_KIA_K5_2011": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_KIA_K5_2012": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_Kaizun_2012": {
+    "displacement": 2.4,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_Kaizun_2013": {
+    "displacement": 2.4,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_Kaizun_2014": {
+    "displacement": 2.4,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_Kaizun_2010": {
+    "displacement": 2.4,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "KIA_Shuma_2010": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 2,
+    "seats": 5
+  },
+  "KIA_Shuma_2011": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 2,
+    "seats": 5
+  },
+  "KIA_Shuma_2014": {
+    "displacement": 1.6,
+    "max_speed": 210,
+    "doors": 2,
+    "seats": 5
+  },
+  "KIA_Sorento_2009": {
+    "displacement": 2.2,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sorento_2013": {
+    "displacement": 2.2,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sorento_2014": {
+    "displacement": 2.2,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sorento_2015": {
+    "displacement": 2.2,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sorento_2010": {
+    "displacement": 2.2,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sorento_2012": {
+    "displacement": 2.2,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Soul_2014": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Soul_2010": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Soul_2012": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Soul_2015": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Soul_2013": {
+    "displacement": 1.6,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sportage_2013": {
+    "displacement": 2.0,
+    "max_speed": 171,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sportage_2009": {
+    "displacement": 2.0,
+    "max_speed": 171,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sportage_2011": {
+    "displacement": 2.0,
+    "max_speed": 171,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sportage_2012": {
+    "displacement": 2.0,
+    "max_speed": 171,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sportage_R_2012": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sportage_R_2014": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "KIA_Sportage_R_2011": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Karry_Youyou_2012": {
+    "displacement": 1.0,
+    "max_speed": 125,
+    "doors": 5,
+    "seats": 5
+  },
+  "Karry_Youyou_2010": {
+    "displacement": 1.0,
+    "max_speed": 125,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Discovery_2014": {
+    "displacement": 3.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Discovery_2013": {
+    "displacement": 3.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Discovery_2011": {
+    "displacement": 3.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Discovery_2012": {
+    "displacement": 3.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Discovery_2015": {
+    "displacement": 3.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Discovery_2010": {
+    "displacement": 3.0,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Evoque_2014": {
+    "displacement": 2.0,
+    "max_speed": 217,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Evoque_2012": {
+    "displacement": 2.0,
+    "max_speed": 217,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Evoque_2013": {
+    "displacement": 2.0,
+    "max_speed": 217,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Evoque_2015": {
+    "displacement": 2.0,
+    "max_speed": 217,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_2010": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_2013": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_2014": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_2011": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_2012": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_Sport_2013": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_Sport_2014": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_Sport_2011": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "LAND-ROVER_Range_Rover_Sport_2010": {
+    "displacement": 3.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lamorghini_Gallardo_2013": {
+    "displacement": 5.2,
+    "max_speed": 325,
+    "doors": 2,
+    "seats": 2
+  },
+  "Lamorghini_Gallardo_2010": {
+    "displacement": 5.2,
+    "max_speed": 325,
+    "doors": 2,
+    "seats": 2
+  },
+  "Lamorghini_Gallardo_2008": {
+    "displacement": 5.2,
+    "max_speed": 325,
+    "doors": 2,
+    "seats": 2
+  },
+  "Lamorghini_Gallardo_2009": {
+    "displacement": 5.2,
+    "max_speed": 325,
+    "doors": 2,
+    "seats": 2
+  },
+  "Lamorghini_Gallardo_2011": {
+    "displacement": 5.2,
+    "max_speed": 325,
+    "doors": 2,
+    "seats": 2
+  },
+  "Lamorghini_Gallardo_2014": {
+    "displacement": 5.2,
+    "max_speed": 325,
+    "doors": 2,
+    "seats": 2
+  },
+  "Lexus_Lexus_CT_2014": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_CT_2012": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_CT_2013": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_ES_2013": {
+    "displacement": 2.5,
+    "max_speed": 198,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_ES_2006": {
+    "displacement": 2.5,
+    "max_speed": 198,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_ES_hybrid_2013": {
+    "displacement": 2.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_GS_2014": {
+    "displacement": 2.5,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_GS_2010": {
+    "displacement": 2.5,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_GS_2012": {
+    "displacement": 2.5,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_GS_hybrid_2014": {
+    "displacement": 2.5,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_GS_hybrid_2009": {
+    "displacement": 2.5,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_GS_hybrid_2012": {
+    "displacement": 2.5,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_GS_hybrid_2010": {
+    "displacement": 2.5,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_GX_2014": {
+    "displacement": 4.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Lexus_Lexus_GX_2010": {
+    "displacement": 4.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Lexus_Lexus_GX_2012": {
+    "displacement": 4.0,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Lexus_Lexus_IS_2013": {
+    "displacement": 2.5,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_IS_2011": {
+    "displacement": 2.5,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_IS_2014": {
+    "displacement": 2.5,
+    "max_speed": 225,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_IS_convertible_2011": {
+    "displacement": 2.5,
+    "max_speed": 210,
+    "doors": 2,
+    "seats": 4
+  },
+  "Lexus_Lexus_IS_convertible_2009": {
+    "displacement": 2.5,
+    "max_speed": 210,
+    "doors": 2,
+    "seats": 4
+  },
+  "Lexus_Lexus_LS_hybrid_2013": {
+    "displacement": 5.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_LS_hybrid_2014": {
+    "displacement": 5.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_LS_hybrid_2010": {
+    "displacement": 5.0,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lexus_Lexus_RX_2012": {
+    "displacement": 2.7,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_RX_2007": {
+    "displacement": 2.7,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_RX_2010": {
+    "displacement": 2.7,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_RX_2011": {
+    "displacement": 2.7,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_RX_2013": {
+    "displacement": 2.7,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_RX_hybrid_2009": {
+    "displacement": 3.5,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_RX_hybrid_2013": {
+    "displacement": 3.5,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lexus_Lexus_RX_hybrid_2012": {
+    "displacement": 3.5,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lifan_Lifan_320_2009": {
+    "displacement": 1.3,
+    "max_speed": 155,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lifan_Lifan_320_2010": {
+    "displacement": 1.3,
+    "max_speed": 155,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lifan_Lifan_320_2012": {
+    "displacement": 1.3,
+    "max_speed": 155,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lifan_Lifan_520_2011": {
+    "displacement": 1.3,
+    "max_speed": 155,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lifan_Lifan_520_2010": {
+    "displacement": 1.3,
+    "max_speed": 155,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lifan_Lifan_720_2013": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lifan_Lifan_720_2014": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lotus_Jingyue_2009": {
+    "displacement": 1.6,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Lufeng_Landwind_X5_2013": {
+    "displacement": 2.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lufeng_Landwind_X8_2011": {
+    "displacement": 2.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lufeng_Landwind_X8_2009": {
+    "displacement": 2.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Lufeng_Landwind_X8_2012": {
+    "displacement": 2.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Atenza_2014": {
+    "displacement": 2.0,
+    "max_speed": 203,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Axela_sedan_2014": {
+    "displacement": 1.5,
+    "max_speed": 192,
+    "doors": 5,
+    "seats": 4
+  },
+  "MAZDA_Mazda_2_2015": {
+    "displacement": 1.3,
+    "max_speed": 172,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_2_2011": {
+    "displacement": 1.3,
+    "max_speed": 172,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_2_2012": {
+    "displacement": 1.3,
+    "max_speed": 172,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_2_sedan_2011": {
+    "displacement": 1.3,
+    "max_speed": 172,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_2012": {
+    "displacement": 1.6,
+    "max_speed": 187,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_2010": {
+    "displacement": 1.6,
+    "max_speed": 187,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_Xingcheng_hatchback_2013": {
+    "displacement": 1.6,
+    "max_speed": 174,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_Xingcheng_hatchback_2012": {
+    "displacement": 1.6,
+    "max_speed": 174,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_Xingcheng_sedan_2013": {
+    "displacement": 1.6,
+    "max_speed": 178,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_Xingcheng_sedan_2011": {
+    "displacement": 1.6,
+    "max_speed": 178,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_abroad_version_2014": {
+    "displacement": 1.6,
+    "max_speed": 176,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_abroad_version_2013": {
+    "displacement": 1.6,
+    "max_speed": 176,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_3_abroad_version_2010": {
+    "displacement": 1.6,
+    "max_speed": 176,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_5_2013": {
+    "displacement": 2.0,
+    "max_speed": 188,
+    "doors": 5,
+    "seats": 7
+  },
+  "MAZDA_Mazda_5_2010": {
+    "displacement": 2.0,
+    "max_speed": 188,
+    "doors": 5,
+    "seats": 7
+  },
+  "MAZDA_Mazda_5_2011": {
+    "displacement": 2.0,
+    "max_speed": 188,
+    "doors": 5,
+    "seats": 7
+  },
+  "MAZDA_Mazda_6_2012": {
+    "displacement": 2.0,
+    "max_speed": 201,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_6_2014": {
+    "displacement": 2.0,
+    "max_speed": 201,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_6_2011": {
+    "displacement": 2.0,
+    "max_speed": 201,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_6_2007": {
+    "displacement": 2.0,
+    "max_speed": 201,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_6_2013": {
+    "displacement": 2.0,
+    "max_speed": 201,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Mazda_CX-5_2013": {
+    "displacement": 2.0,
+    "max_speed": 187,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_CX-5_2012": {
+    "displacement": 2.0,
+    "max_speed": 187,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_CX-5_2014": {
+    "displacement": 2.0,
+    "max_speed": 187,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_CX7_2010": {
+    "displacement": 2.5,
+    "max_speed": 173,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Mazda_CX7_2014": {
+    "displacement": 2.5,
+    "max_speed": 173,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Ruiyi_2012": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Ruiyi_2009": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Ruiyi_2011": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "MAZDA_Ruiyi_coupe_2010": {
+    "displacement": 2.0,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Ruiyi_coupe_2011": {
+    "displacement": 2.0,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "MAZDA_Ruiyi_coupe_2012": {
+    "displacement": 2.0,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG3_2014": {
+    "displacement": 1.3,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG3_2013": {
+    "displacement": 1.3,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG3_2011": {
+    "displacement": 1.3,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG3_SW_2009": {
+    "displacement": 1.4,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG5_2012": {
+    "displacement": 1.5,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG5_2014": {
+    "displacement": 1.5,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG6_hatchback_2010": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG6_hatchback_2013": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG6_hatchback_2014": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG6_hatchback_2012": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 5,
+    "seats": 5
+  },
+  "MG_MG7_2009": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "MG_MG7_2010": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "MINI_MINI_2015": {
+    "displacement": 1.2,
+    "max_speed": 195,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_2009": {
+    "displacement": 1.2,
+    "max_speed": 195,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_2014": {
+    "displacement": 1.2,
+    "max_speed": 195,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_2011": {
+    "displacement": 1.2,
+    "max_speed": 195,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_2012": {
+    "displacement": 1.2,
+    "max_speed": 195,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_CLUBMAN_2008": {
+    "displacement": 1.6,
+    "max_speed": 179,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_CLUBMAN_2011": {
+    "displacement": 1.6,
+    "max_speed": 179,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_CLUBMAN_2013": {
+    "displacement": 1.6,
+    "max_speed": 179,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_CLUBMAN_2009": {
+    "displacement": 1.6,
+    "max_speed": 179,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_CLUBMAN_2014": {
+    "displacement": 1.6,
+    "max_speed": 179,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_COUNTRYMAN_2013": {
+    "displacement": 1.6,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 5
+  },
+  "MINI_MINI_COUNTRYMAN_2012": {
+    "displacement": 1.6,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 5
+  },
+  "MINI_MINI_COUNTRYMAN_2014": {
+    "displacement": 1.6,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 5
+  },
+  "MINI_MINI_COUNTRYMAN_2011": {
+    "displacement": 1.6,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 5
+  },
+  "MINI_MINI_PACEMAN_2013": {
+    "displacement": 1.6,
+    "max_speed": 184,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_PACEMAN_2015": {
+    "displacement": 1.6,
+    "max_speed": 184,
+    "doors": 3,
+    "seats": 4
+  },
+  "MINI_MINI_PACEMAN_2014": {
+    "displacement": 1.6,
+    "max_speed": 184,
+    "doors": 3,
+    "seats": 4
+  },
+  "Mitsubishi_ASX_abroad_version_2010": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_ASX_abroad_version_2012": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_ASX_abroad_version_2015": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Evo_2008": {
+    "displacement": 2.0,
+    "max_speed": 242,
+    "doors": 4,
+    "seats": 5
+  },
+  "Mitsubishi_Evo_2012": {
+    "displacement": 2.0,
+    "max_speed": 242,
+    "doors": 4,
+    "seats": 5
+  },
+  "Mitsubishi_Grandis_2009": {
+    "displacement": 2.4,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 7
+  },
+  "Mitsubishi_Mitsubishi_Fortis_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Mitsubishi_Mitsubishi_Lancer_EX_2010": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Mitsubishi_Mitsubishi_Lancer_EX_2011": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Mitsubishi_Mitsubishi_Lancer_EX_2014": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Mitsubishi_Mitsubishi_Lancer_EX_2012": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Mitsubishi_Mitsubishi_Lancer_EX_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Mitsubishi_Outlander_abroad_version_2012": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Outlander_abroad_version_2013": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Outlander_abroad_version_2011": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Outlander_abroad_version_2014": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Outlander_abroad_version_2010": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Pajero_2010": {
+    "displacement": 3.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Pajero_2015": {
+    "displacement": 3.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Pajero_2011": {
+    "displacement": 3.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Pajero_2014": {
+    "displacement": 3.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Pajero_2008": {
+    "displacement": 3.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Mitsubishi_Pajero_2012": {
+    "displacement": 3.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Livina_2013": {
+    "displacement": 1.6,
+    "max_speed": 184,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Livina_2010": {
+    "displacement": 1.6,
+    "max_speed": 184,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Ma_Chi_2010": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Ma_Chi_2014": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_New_Sylphy_2012": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_New_Sylphy_2014": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Nissan_GT-R_2015": {
+    "displacement": 3.8,
+    "max_speed": 315,
+    "doors": 2,
+    "seats": 4
+  },
+  "Nissan_Nissan_GT-R_2012": {
+    "displacement": 3.8,
+    "max_speed": 315,
+    "doors": 2,
+    "seats": 4
+  },
+  "Nissan_Nissan_GT-R_2009": {
+    "displacement": 3.8,
+    "max_speed": 315,
+    "doors": 2,
+    "seats": 4
+  },
+  "Nissan_Nissan_GT-R_2010": {
+    "displacement": 3.8,
+    "max_speed": 315,
+    "doors": 2,
+    "seats": 4
+  },
+  "Nissan_Nissan_GT-R_2014": {
+    "displacement": 3.8,
+    "max_speed": 315,
+    "doors": 2,
+    "seats": 4
+  },
+  "Nissan_Nissan_GT-R_2013": {
+    "displacement": 3.8,
+    "max_speed": 315,
+    "doors": 2,
+    "seats": 4
+  },
+  "Nissan_Nissan_NV200_2011": {
+    "displacement": 1.6,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 7
+  },
+  "Nissan_Nissan_NV200_2014": {
+    "displacement": 1.6,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 7
+  },
+  "Nissan_Nissan_NV200_2010": {
+    "displacement": 1.6,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 7
+  },
+  "Nissan_Nissan_NV200_2013": {
+    "displacement": 1.6,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 7
+  },
+  "Nissan_Qashqai_2012": {
+    "displacement": 1.6,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Qashqai_2011": {
+    "displacement": 1.6,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Qashqai_2010": {
+    "displacement": 1.6,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Qashqai_2013": {
+    "displacement": 1.6,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Qashqai_2014": {
+    "displacement": 1.6,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Sunshine_2014": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Sunshine_2011": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Sylphy_2012": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Sylphy_2009": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Sylphy_2010": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Teana_2014": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Teana_2013": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Teana_2011": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Teana_2012": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Teana_2010": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Teana_2008": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Nissan_Tiida_2012": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Tiida_2011": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Nissan_Tiida_2013": {
+    "displacement": 1.6,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Opel_Antara_2011": {
+    "displacement": 2.4,
+    "max_speed": 181,
+    "doors": 5,
+    "seats": 5
+  },
+  "Opel_Antara_2009": {
+    "displacement": 2.4,
+    "max_speed": 181,
+    "doors": 5,
+    "seats": 5
+  },
+  "Opel_Antara_2013": {
+    "displacement": 2.4,
+    "max_speed": 181,
+    "doors": 5,
+    "seats": 5
+  },
+  "Opel_Antara_2012": {
+    "displacement": 2.4,
+    "max_speed": 181,
+    "doors": 5,
+    "seats": 5
+  },
+  "Opel_GTC_hatchback_2004": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 5
+  },
+  "Opel_GTC_hatchback_2012": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 5
+  },
+  "Opel_GTC_hatchback_2010": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 5
+  },
+  "Opel_GTC_hatchback_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 5
+  },
+  "Opel_GTC_hatchback_2008": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 5
+  },
+  "Opel_GTC_hatchback_2014": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 5
+  },
+  "Opel_Zafira_2013": {
+    "displacement": 1.4,
+    "max_speed": 197,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_207CC_2008": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_207CC_2011": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_207CC_2013": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_207_hatchback_2011": {
+    "displacement": 1.4,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_207_hatchback_2009": {
+    "displacement": 1.4,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_207_hatchback_2010": {
+    "displacement": 1.4,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_207_sedan_2010": {
+    "displacement": 1.6,
+    "max_speed": 165,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_207_sedan_2009": {
+    "displacement": 1.6,
+    "max_speed": 165,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_207_sedan_2011": {
+    "displacement": 1.6,
+    "max_speed": 165,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_3008_2013": {
+    "displacement": 1.6,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_3008_2014": {
+    "displacement": 1.6,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_3008_2011": {
+    "displacement": 1.6,
+    "max_speed": 202,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_307_hatchback_2012": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_307_hatchback_2013": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_307_hatchback_2010": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_307_sedan_2010": {
+    "displacement": 1.6,
+    "max_speed": 179,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_308_2014": {
+    "displacement": 1.6,
+    "max_speed": 194,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_308_2012": {
+    "displacement": 1.6,
+    "max_speed": 194,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_308_2013": {
+    "displacement": 1.6,
+    "max_speed": 194,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_308CC_2009": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_308CC_2012": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_308CC_2013": {
+    "displacement": 1.6,
+    "max_speed": 205,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_308SW_2012": {
+    "displacement": 1.6,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_308SW_2014": {
+    "displacement": 1.6,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_308SW_2013": {
+    "displacement": 1.6,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_308SW_2009": {
+    "displacement": 1.6,
+    "max_speed": 198,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_4008_2012": {
+    "displacement": 2.0,
+    "max_speed": 184,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_4008_2013": {
+    "displacement": 2.0,
+    "max_speed": 184,
+    "doors": 5,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_408_2014": {
+    "displacement": 1.6,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_408_2013": {
+    "displacement": 1.6,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_408_2011": {
+    "displacement": 1.6,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_408_2010": {
+    "displacement": 1.6,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_408_2012": {
+    "displacement": 1.6,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_508_2011": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_508_2013": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_508_2012": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_508_2014": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Peugeot_Peugeot_RCZ_2011": {
+    "displacement": 1.6,
+    "max_speed": 212,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_RCZ_2014": {
+    "displacement": 1.6,
+    "max_speed": 212,
+    "doors": 2,
+    "seats": 4
+  },
+  "Peugeot_Peugeot_RCZ_2013": {
+    "displacement": 1.6,
+    "max_speed": 212,
+    "doors": 2,
+    "seats": 4
+  },
+  "Porsche_Canyenne_2011": {
+    "displacement": 3.0,
+    "max_speed": 239,
+    "doors": 5,
+    "seats": 5
+  },
+  "Porsche_Canyenne_2013": {
+    "displacement": 3.0,
+    "max_speed": 239,
+    "doors": 5,
+    "seats": 5
+  },
+  "Porsche_Canyenne_2015": {
+    "displacement": 3.0,
+    "max_speed": 239,
+    "doors": 5,
+    "seats": 5
+  },
+  "Porsche_Cayman_2012": {
+    "displacement": 2.7,
+    "max_speed": 264,
+    "doors": 2,
+    "seats": 2
+  },
+  "Porsche_Cayman_2013": {
+    "displacement": 2.7,
+    "max_speed": 264,
+    "doors": 2,
+    "seats": 2
+  },
+  "Porsche_Cayman_2014": {
+    "displacement": 2.7,
+    "max_speed": 264,
+    "doors": 2,
+    "seats": 2
+  },
+  "Porsche_Cayman_2009": {
+    "displacement": 2.7,
+    "max_speed": 264,
+    "doors": 2,
+    "seats": 2
+  },
+  "Porsche_Panamera_2012": {
+    "displacement": 3.0,
+    "max_speed": 262,
+    "doors": 5,
+    "seats": 4
+  },
+  "Porsche_Panamera_2014": {
+    "displacement": 3.0,
+    "max_speed": 262,
+    "doors": 5,
+    "seats": 4
+  },
+  "Porsche_Panamera_2013": {
+    "displacement": 3.0,
+    "max_speed": 262,
+    "doors": 5,
+    "seats": 4
+  },
+  "Porsche_Panamera_2010": {
+    "displacement": 3.0,
+    "max_speed": 262,
+    "doors": 5,
+    "seats": 4
+  },
+  "Porsche_Panamera_2009": {
+    "displacement": 3.0,
+    "max_speed": 262,
+    "doors": 5,
+    "seats": 4
+  },
+  "Porsche_Porsche_911_2010": {
+    "displacement": 3.4,
+    "max_speed": 283,
+    "doors": 2,
+    "seats": 4
+  },
+  "Porsche_Porsche_911_2014": {
+    "displacement": 3.4,
+    "max_speed": 283,
+    "doors": 2,
+    "seats": 4
+  },
+  "Porsche_Porsche_911_2013": {
+    "displacement": 3.4,
+    "max_speed": 283,
+    "doors": 2,
+    "seats": 4
+  },
+  "Porsche_Porsche_911_2012": {
+    "displacement": 3.4,
+    "max_speed": 283,
+    "doors": 2,
+    "seats": 4
+  },
+  "Porsche_Porsche_911_2011": {
+    "displacement": 3.4,
+    "max_speed": 283,
+    "doors": 2,
+    "seats": 4
+  },
+  "Qoros_Qoros_3_2014": {
+    "displacement": 1.6,
+    "max_speed": 197,
+    "doors": 4,
+    "seats": 5
+  },
+  "Qoros_Qoros_3_2013": {
+    "displacement": 1.6,
+    "max_speed": 197,
+    "doors": 4,
+    "seats": 5
+  },
+  "Renault_Koleos_2010": {
+    "displacement": 2.0,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Renault_Koleos_2014": {
+    "displacement": 2.0,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Renault_Koleos_2009": {
+    "displacement": 2.0,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Renault_Koleos_2012": {
+    "displacement": 2.0,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Renault_Koleos_2013": {
+    "displacement": 2.0,
+    "max_speed": 174,
+    "doors": 5,
+    "seats": 5
+  },
+  "Renault_Latitude_2013": {
+    "displacement": 2.0,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Renault_Latitude_2011": {
+    "displacement": 2.0,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Renault_Scenic_2011": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Renault_Scenic_2012": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Renault_Scenic_2013": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Renault_Wind_Lang_2011": {
+    "displacement": 2.0,
+    "max_speed": 191,
+    "doors": 4,
+    "seats": 5
+  },
+  "Renault_Wind_Lang_2013": {
+    "displacement": 2.0,
+    "max_speed": 191,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_350_2010": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_350_2014": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_350_2013": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_350_2011": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_350_2012": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_550_2010": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_550_2013": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_550_2008": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_550_2009": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_550_2012": {
+    "displacement": 1.8,
+    "max_speed": 188,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_750_2011": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Roewe_Roewe_750_2009": {
+    "displacement": 1.8,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ruiqi_Ruiqi_G5_2010": {
+    "displacement": 2.0,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ruiqi_Ruiqi_G5_2011": {
+    "displacement": 2.0,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Ruiqi_Ruiqi_G5_2012": {
+    "displacement": 2.0,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "SAAB_SAAB_D70_2013": {
+    "displacement": 1.8,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Shangqidatong_MAXUS_V80xs_2012": {
+    "displacement": 2.5,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 15
+  },
+  "Shuanglong_Kyron_2011": {
+    "displacement": 2.0,
+    "max_speed": 166,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Fabia_2008": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Fabia_2012": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Fabia_2013": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Fabia_2011": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Fabia_2015": {
+    "displacement": 1.4,
+    "max_speed": 175,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Haorui_2009": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Skoda_Haorui_2010": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Skoda_Haorui_2012": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Skoda_Haorui_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Skoda_Octavia_2010": {
+    "displacement": 1.4,
+    "max_speed": 208,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Octavia_2013": {
+    "displacement": 1.4,
+    "max_speed": 208,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Octavia_2015": {
+    "displacement": 1.4,
+    "max_speed": 208,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Octavia_2014": {
+    "displacement": 1.4,
+    "max_speed": 208,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Octavia_2009": {
+    "displacement": 1.4,
+    "max_speed": 208,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Octavia_2012": {
+    "displacement": 1.4,
+    "max_speed": 208,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Rapid_2013": {
+    "displacement": 1.4,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Skoda_Rapid_2015": {
+    "displacement": 1.4,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Skoda_Superb_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Superb_Derivative_2014": {
+    "displacement": 2.0,
+    "max_speed": 234,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Superb_Derivative_2013": {
+    "displacement": 2.0,
+    "max_speed": 234,
+    "doors": 5,
+    "seats": 5
+  },
+  "Skoda_Yeti_2014": {
+    "displacement": 1.4,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Subaru_Impreza_hatchback_2010": {
+    "displacement": 2.0,
+    "max_speed": 191,
+    "doors": 5,
+    "seats": 5
+  },
+  "Subaru_Impreza_hatchback_2008": {
+    "displacement": 2.0,
+    "max_speed": 191,
+    "doors": 5,
+    "seats": 5
+  },
+  "Subaru_Impreza_sedan_2009": {
+    "displacement": 2.5,
+    "max_speed": 255,
+    "doors": 4,
+    "seats": 5
+  },
+  "Subaru_Impreza_sedan_2013": {
+    "displacement": 2.5,
+    "max_speed": 255,
+    "doors": 4,
+    "seats": 5
+  },
+  "Subaru_Impreza_sedan_2011": {
+    "displacement": 2.5,
+    "max_speed": 255,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Alto_2010": {
+    "displacement": 1.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Alto_2013": {
+    "displacement": 1.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Alto_2009": {
+    "displacement": 1.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Alto_2012": {
+    "displacement": 1.0,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Bei_Douxing_2014": {
+    "displacement": 1.0,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Bei_Douxing_2013": {
+    "displacement": 1.0,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Bei_Douxing_2010": {
+    "displacement": 1.0,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Bei_Douxing_2011": {
+    "displacement": 1.0,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Bei_Douxing_2012": {
+    "displacement": 1.0,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Cultus_2011": {
+    "displacement": 1.3,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Cultus_2012": {
+    "displacement": 1.3,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Kazishi_2014": {
+    "displacement": 2.4,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Kazishi_2010": {
+    "displacement": 2.4,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Kazishi_2012": {
+    "displacement": 2.4,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Kazishi_2011": {
+    "displacement": 2.4,
+    "max_speed": 215,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Tianyu_SX4_hatchback_2013": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Tianyu_SX4_hatchback_2009": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Tianyu_SX4_hatchback_2011": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Tianyu_SX4_hatchback_2012": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Tianyushangyue_2011": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Tianyushangyue_2012": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Suzuki_Yuyan_2010": {
+    "displacement": 1.3,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Yuyan_2013": {
+    "displacement": 1.3,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Yuyan_2011": {
+    "displacement": 1.3,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Suzuki_Yuyan_2012": {
+    "displacement": 1.3,
+    "max_speed": 165,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Alphard_2013": {
+    "displacement": 2.4,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Toyota_Alphard_2012": {
+    "displacement": 2.4,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Toyota_Alphard_2011": {
+    "displacement": 2.4,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 7
+  },
+  "Toyota_Camry_2013": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Camry_2009": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Camry_2012": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Camry_2015": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Camry_2008": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Camry_2010": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Camry_2011": {
+    "displacement": 2.0,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Camry_hybrid_2012": {
+    "displacement": 2.5,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Crown_2011": {
+    "displacement": 2.5,
+    "max_speed": 219,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Crown_2010": {
+    "displacement": 2.5,
+    "max_speed": 219,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Crown_2012": {
+    "displacement": 2.5,
+    "max_speed": 219,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_EZ_2014": {
+    "displacement": 1.6,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_EZ_2011": {
+    "displacement": 1.6,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_EZ_2012": {
+    "displacement": 1.6,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Huaguan_2010": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Huaguan_2011": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Huaguan_2013": {
+    "displacement": 1.6,
+    "max_speed": 195,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Lcruiser_2010": {
+    "displacement": 4.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 8
+  },
+  "Toyota_Lcruiser_2012": {
+    "displacement": 4.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 8
+  },
+  "Toyota_Lcruiser_2013": {
+    "displacement": 4.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 8
+  },
+  "Toyota_Prado_2014": {
+    "displacement": 2.7,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Prado_2006": {
+    "displacement": 2.7,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Prado_2010": {
+    "displacement": 2.7,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Prius_2012": {
+    "displacement": 1.8,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Reiz_2013": {
+    "displacement": 2.5,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Reiz_2010": {
+    "displacement": 2.5,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Reiz_2012": {
+    "displacement": 2.5,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Toyota_86_2014": {
+    "displacement": 2.0,
+    "max_speed": 226,
+    "doors": 2,
+    "seats": 4
+  },
+  "Toyota_Toyota_86_2013": {
+    "displacement": 2.0,
+    "max_speed": 226,
+    "doors": 2,
+    "seats": 4
+  },
+  "Toyota_Toyota_RAV4_2009": {
+    "displacement": 2.0,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Toyota_RAV4_2013": {
+    "displacement": 2.0,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Toyota_RAV4_2012": {
+    "displacement": 2.0,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Toyota_RAV4_2010": {
+    "displacement": 2.0,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Venza_2009": {
+    "displacement": 2.7,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Venza_2013": {
+    "displacement": 2.7,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Vios_2014": {
+    "displacement": 1.3,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Vios_2013": {
+    "displacement": 1.3,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Vios_2011": {
+    "displacement": 1.3,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Toyota_Yaris_2015": {
+    "displacement": 1.3,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Yaris_2011": {
+    "displacement": 1.3,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 5
+  },
+  "Toyota_Yaris_2013": {
+    "displacement": 1.3,
+    "max_speed": 168,
+    "doors": 5,
+    "seats": 5
+  },
+  "Venucia_Venucia_D50_2012": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Venucia_Venucia_D50_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Venucia_Venucia_D50_2014": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 4,
+    "seats": 5
+  },
+  "Venucia_Venucia_R50_2012": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Venucia_Venucia_R50_2013": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Venucia_Venucia_R50_2014": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Beetle_2014": {
+    "displacement": 1.2,
+    "max_speed": 180,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volkswagen_Beetle_2013": {
+    "displacement": 1.2,
+    "max_speed": 180,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volkswagen_Beetle_2010": {
+    "displacement": 1.2,
+    "max_speed": 180,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volkswagen_Bora_2008": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Bora_2011": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Bora_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Bora_2012": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Bora_2014": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Cross_Lavida_2014": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Cross_Polo_2014": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Cross_Polo_2012": {
+    "displacement": 1.6,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_2011": {
+    "displacement": 1.4,
+    "max_speed": 204,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_2014": {
+    "displacement": 1.4,
+    "max_speed": 204,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_2012": {
+    "displacement": 1.4,
+    "max_speed": 204,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_2013": {
+    "displacement": 1.4,
+    "max_speed": 204,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_2010": {
+    "displacement": 1.4,
+    "max_speed": 204,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_GTI_2010": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_GTI_2012": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_GTI_2015": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_GTI_2013": {
+    "displacement": 2.0,
+    "max_speed": 235,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_convertible_2012": {
+    "displacement": 1.4,
+    "max_speed": 216,
+    "doors": 2,
+    "seats": 4
+  },
+  "Volkswagen_Golf_estate_2013": {
+    "displacement": 1.4,
+    "max_speed": 218,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_estate_2014": {
+    "displacement": 1.4,
+    "max_speed": 218,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Golf_estate_2011": {
+    "displacement": 1.4,
+    "max_speed": 218,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Gran_Lavida_2014": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Gran_Lavida_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Jetta_2013": {
+    "displacement": 1.4,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Jetta_2012": {
+    "displacement": 1.4,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Jetta_2010": {
+    "displacement": 1.4,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Jetta_2009": {
+    "displacement": 1.4,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Jetta_2011": {
+    "displacement": 1.4,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Lavide_2013": {
+    "displacement": 1.4,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Lavide_2008": {
+    "displacement": 1.4,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Lavide_2014": {
+    "displacement": 1.4,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Lavide_2011": {
+    "displacement": 1.4,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Magotan_2009": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Magotan_2011": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Magotan_2012": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Magotan_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Magotan_estate_2012": {
+    "displacement": 2.0,
+    "max_speed": 233,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Magotan_estate_2014": {
+    "displacement": 2.0,
+    "max_speed": 233,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Multivan_2012": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volkswagen_Multivan_2008": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volkswagen_Multivan_2014": {
+    "displacement": 2.0,
+    "max_speed": 200,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volkswagen_Passat_2011": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Passat_2014": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Passat_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Passat_Lingyu_2009": {
+    "displacement": 1.8,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Phaeton_2011": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Phaeton_2009": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Phaeton_2012": {
+    "displacement": 3.0,
+    "max_speed": 240,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Polo_hatchback_2011": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Polo_hatchback_2009": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Polo_hatchback_2014": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Polo_hatchback_2013": {
+    "displacement": 1.4,
+    "max_speed": 182,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Polo_sedan_2009": {
+    "displacement": 1.4,
+    "max_speed": 178,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Polo_sedan_2013": {
+    "displacement": 1.4,
+    "max_speed": 178,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Polo_sedan_2011": {
+    "displacement": 1.4,
+    "max_speed": 178,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Sagitar_2014": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Sagitar_2012": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Sagitar_2010": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Sagitar_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Sagitar_2011": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Santana_2013": {
+    "displacement": 1.4,
+    "max_speed": 181,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volkswagen_Scirocco_2010": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volkswagen_Scirocco_2011": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volkswagen_Scirocco_2015": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volkswagen_Scirocco_2013": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volkswagen_Scirocco_2009": {
+    "displacement": 1.4,
+    "max_speed": 200,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volkswagen_Sharan_2012": {
+    "displacement": 1.8,
+    "max_speed": 203,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volkswagen_Sharan_2013": {
+    "displacement": 1.8,
+    "max_speed": 203,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volkswagen_Tiguan_2012": {
+    "displacement": 1.4,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Tiguan_2013": {
+    "displacement": 1.4,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Tiguan_2015": {
+    "displacement": 1.4,
+    "max_speed": 185,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Tiguan_abroad_version_2013": {
+    "displacement": 2.0,
+    "max_speed": 197,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Tiguan_abroad_version_2012": {
+    "displacement": 2.0,
+    "max_speed": 197,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Tiguan_abroad_version_2011": {
+    "displacement": 2.0,
+    "max_speed": 197,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Tiguan_abroad_version_2009": {
+    "displacement": 2.0,
+    "max_speed": 197,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Tiguan_abroad_version_2014": {
+    "displacement": 2.0,
+    "max_speed": 197,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touareg_2010": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touareg_2011": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touareg_2012": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touareg_2009": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touareg_2014": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touareg_2015": {
+    "displacement": 3.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touran_2008": {
+    "displacement": 1.4,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touran_2013": {
+    "displacement": 1.4,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touran_2011": {
+    "displacement": 1.4,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Touran_2015": {
+    "displacement": 1.4,
+    "max_speed": 190,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Variant_2010": {
+    "displacement": 2.0,
+    "max_speed": 227,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Variant_2011": {
+    "displacement": 2.0,
+    "max_speed": 227,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volkswagen_Volkswagen_CC_2009": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 4
+  },
+  "Volkswagen_Volkswagen_CC_2013": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 4
+  },
+  "Volkswagen_Volkswagen_CC_2012": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 4
+  },
+  "Volkswagen_Volkswagen_CC_2011": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 4
+  },
+  "Volkswagen_Volkswagen_CC_2010": {
+    "displacement": 3.6,
+    "max_speed": 250,
+    "doors": 4,
+    "seats": 4
+  },
+  "Volkswagen_Volkswagen_Eos_2011": {
+    "displacement": 2.0,
+    "max_speed": 236,
+    "doors": 2,
+    "seats": 4
+  },
+  "Volkswagen_Volkswagen_Eos_2014": {
+    "displacement": 2.0,
+    "max_speed": 236,
+    "doors": 2,
+    "seats": 4
+  },
+  "Volkswagen_Volkswagen_Eos_2010": {
+    "displacement": 2.0,
+    "max_speed": 236,
+    "doors": 2,
+    "seats": 4
+  },
+  "Volvo_Volvo_C30_2009": {
+    "displacement": 2.0,
+    "max_speed": 205,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volvo_Volvo_C30_2013": {
+    "displacement": 2.0,
+    "max_speed": 205,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volvo_Volvo_C30_2011": {
+    "displacement": 2.0,
+    "max_speed": 205,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volvo_Volvo_C30_2008": {
+    "displacement": 2.0,
+    "max_speed": 205,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volvo_Volvo_C30_2012": {
+    "displacement": 2.0,
+    "max_speed": 205,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volvo_Volvo_C30_2010": {
+    "displacement": 2.0,
+    "max_speed": 205,
+    "doors": 3,
+    "seats": 4
+  },
+  "Volvo_Volvo_C70_2008": {
+    "displacement": 2.5,
+    "max_speed": 235,
+    "doors": 2,
+    "seats": 4
+  },
+  "Volvo_Volvo_C70_2010": {
+    "displacement": 2.5,
+    "max_speed": 235,
+    "doors": 2,
+    "seats": 4
+  },
+  "Volvo_Volvo_S40_2011": {
+    "displacement": 2.0,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S40_2010": {
+    "displacement": 2.0,
+    "max_speed": 205,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S60_2011": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S60_2012": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S60_2014": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S60_2013": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S60L_2015": {
+    "displacement": 2.0,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S60L_2014": {
+    "displacement": 2.0,
+    "max_speed": 220,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S80L_2010": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S80L_2012": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S80L_2014": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S80L_2009": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_S80L_2011": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Volvo_Volvo_V40_2015": {
+    "displacement": 1.6,
+    "max_speed": 225,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_V40_2013": {
+    "displacement": 1.6,
+    "max_speed": 225,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_V40_2014": {
+    "displacement": 1.6,
+    "max_speed": 225,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_V40_CrossCountry_2014": {
+    "displacement": 2.0,
+    "max_speed": 220,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_V60_2014": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_V60_2015": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_V60_2013": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_V60_2012": {
+    "displacement": 2.0,
+    "max_speed": 230,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_XC60_2011": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_XC60_2012": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_XC60_2015": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_XC60_2009": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_XC60_2013": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_XC60_2014": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_XC60_2010": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 5
+  },
+  "Volvo_Volvo_XC90_abroad_version_2008": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volvo_Volvo_XC90_abroad_version_2010": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volvo_Volvo_XC90_abroad_version_2015": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volvo_Volvo_XC90_abroad_version_2011": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volvo_Volvo_XC90_abroad_version_2013": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 7
+  },
+  "Volvo_Volvo_XC90_abroad_version_2012": {
+    "displacement": 2.0,
+    "max_speed": 210,
+    "doors": 5,
+    "seats": 7
+  },
+  "Wealeak_WeaLink_X5_2010": {
+    "displacement": 2.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Wealeak_WeaLink_X5_2011": {
+    "displacement": 2.0,
+    "max_speed": 170,
+    "doors": 5,
+    "seats": 5
+  },
+  "Wuling_Wulinghongguang_2010": {
+    "displacement": 1.2,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 8
+  },
+  "Wuling_Wulinghongguang_2013": {
+    "displacement": 1.2,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 8
+  },
+  "Wuling_Wulinghongguang_2014": {
+    "displacement": 1.2,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 8
+  },
+  "Wuling_Wulingrongguang_2014": {
+    "displacement": 1.2,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 8
+  },
+  "Wuling_Wulingrongguang_2012": {
+    "displacement": 1.2,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 8
+  },
+  "Wuling_Wulingrongguang_2011": {
+    "displacement": 1.2,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 8
+  },
+  "Wuling_Wulingrongguang_2008": {
+    "displacement": 1.2,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 8
+  },
+  "Wuling_Wulingzhiguang_2013": {
+    "displacement": 1.0,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 5
+  },
+  "Wuling_Wulingzhiguang_2014": {
+    "displacement": 1.0,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 5
+  },
+  "Wuling_Wulingzhiguang_2010": {
+    "displacement": 1.0,
+    "max_speed": 120,
+    "doors": 5,
+    "seats": 5
+  },
+  "Yiqi_Weizhi_2009": {
+    "displacement": 1.5,
+    "max_speed": 178,
+    "doors": 4,
+    "seats": 5
+  },
+  "Yiqi_Weizhi_V2_2010": {
+    "displacement": 1.3,
+    "max_speed": 166,
+    "doors": 5,
+    "seats": 5
+  },
+  "Yiqi_Weizhi_V2_2013": {
+    "displacement": 1.3,
+    "max_speed": 166,
+    "doors": 5,
+    "seats": 5
+  },
+  "Yiqi_Weizhi_V5_2012": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Yiqi_Weizhi_V5_2013": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Yiqi_Xiali_N5_2010": {
+    "displacement": 1.0,
+    "max_speed": 156,
+    "doors": 4,
+    "seats": 5
+  },
+  "Yiqi_Xiali_N5_2013": {
+    "displacement": 1.0,
+    "max_speed": 156,
+    "doors": 4,
+    "seats": 5
+  },
+  "Yiqi_Xiali_N5_2011": {
+    "displacement": 1.0,
+    "max_speed": 156,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_H230_2012": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_H330_2013": {
+    "displacement": 1.5,
+    "max_speed": 175,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_H530_2011": {
+    "displacement": 1.5,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_H530_2012": {
+    "displacement": 1.5,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_H530_2014": {
+    "displacement": 1.5,
+    "max_speed": 190,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_2011": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_2009": {
+    "displacement": 1.6,
+    "max_speed": 180,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_CROSS_2009": {
+    "displacement": 1.5,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_CROSS_2010": {
+    "displacement": 1.5,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_FRV_2008": {
+    "displacement": 1.3,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_FRV_2010": {
+    "displacement": 1.3,
+    "max_speed": 160,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_FSV_2009": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_FSV_2011": {
+    "displacement": 1.5,
+    "max_speed": 170,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_Wagon_2011": {
+    "displacement": 1.8,
+    "max_speed": 205,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Junjie_Wagon_2008": {
+    "displacement": 1.8,
+    "max_speed": 205,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_V5_2012": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_V5_2014": {
+    "displacement": 1.5,
+    "max_speed": 180,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Zunchi_2009": {
+    "displacement": 1.8,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Zunchi_2011": {
+    "displacement": 1.8,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zhonghua_Zhonghua_Zunchi_2008": {
+    "displacement": 1.8,
+    "max_speed": 210,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zoyte_Zotye_5008_2008": {
+    "displacement": 1.3,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zoyte_Zotye_5008_2010": {
+    "displacement": 1.3,
+    "max_speed": 140,
+    "doors": 5,
+    "seats": 5
+  },
+  "Zxauto_Grandtiger_G3_2013": {
+    "displacement": 2.2,
+    "max_speed": 130,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zxauto_Grandtiger_G3_2012": {
+    "displacement": 2.2,
+    "max_speed": 130,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zxauto_Grandtiger_G3_2010": {
+    "displacement": 2.2,
+    "max_speed": 130,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zxauto_Grandtiger_TUV_2013": {
+    "displacement": 2.2,
+    "max_speed": 150,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zxauto_Grandtiger_TUV_2014": {
+    "displacement": 2.2,
+    "max_speed": 150,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zxauto_Qijian_A9_2010": {
+    "displacement": 2.2,
+    "max_speed": 135,
+    "doors": 4,
+    "seats": 5
+  },
+  "Zxauto_Qijian_A9_2014": {
+    "displacement": 2.2,
+    "max_speed": 135,
+    "doors": 4,
+    "seats": 5
+  },
+  "smart_smart_fortwo_2010": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 3,
+    "seats": 2
+  },
+  "smart_smart_fortwo_2011": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 3,
+    "seats": 2
+  },
+  "smart_smart_fortwo_2015": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 3,
+    "seats": 2
+  },
+  "smart_smart_fortwo_2012": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 3,
+    "seats": 2
+  },
+  "smart_smart_fortwo_2014": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 3,
+    "seats": 2
+  },
+  "smart_smart_fortwo_2013": {
+    "displacement": 1.0,
+    "max_speed": 145,
+    "doors": 3,
+    "seats": 2
+  }
+}

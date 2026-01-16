@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Large datasets / training artifacts
+dataset/
+train_test_split/
+image/
+label/
+misc/
+part/
+
+# Model outputs / binaries
+saved_models/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log

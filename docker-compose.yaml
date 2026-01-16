@@ -1,0 +1,38 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    container_name: car_apisog
+    ports:
+      - "9000:9000"
+    volumes:
+      - .:/app
+    environment:
+      - OLLAMA_URL=http://ollama:11434/api/generate
+    depends_on:
+      - ollama
+    restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+
+  ollama-puller:
+    image: curlimages/curl
+    container_name: ollama_puller
+    depends_on:
+      - ollama
+    command: >
+      sh -c "echo 'Waiting for Ollama service...' &&
+             while ! curl -s http://ollama:11434/api/tags > /dev/null; do sleep 2; done &&
+             echo 'Ollama is up! Pulling model gemma3:4b-it-q4_K_M...' &&
+             curl -X POST http://ollama:11434/api/pull -d '{\"model\": \"gemma3:4b-it-q4_K_M\"}'"
+
+volumes:
+  ollama_data:

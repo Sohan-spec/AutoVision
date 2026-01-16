@@ -1,0 +1,10 @@
+venv
+dataset
+image
+train_test_split
+misc
+__pycache__
+*.ipynb
+*.jpg
+*.png
+*.pt
