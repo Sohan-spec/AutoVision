@@ -6,7 +6,6 @@
     --color-background: #000000;
     --color-foreground: #ffffff;
     --color-accent: #333333;
-<<<<<<< HEAD
     --color-border: #333;
     --color-grid: #222;
 
@@ -17,7 +16,6 @@
     --radius-sm: 4px;
     --radius-md: 6px;
     --radius-lg: 12px;
-=======
     --color-border: #2a2a2a;
     --color-success: #0070f3;
 
@@ -43,7 +41,6 @@
 
     /* Transitions */
     --transition-normal: 0.2s ease;
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 /* ================================
@@ -55,7 +52,6 @@
     box-sizing: border-box;
 }
 
-<<<<<<< HEAD
 body {
     background-color: var(--color-background);
     color: var(--color-foreground);
@@ -83,7 +79,6 @@ body {
     width: 100%;
     position: fixed;
     top: 0;
-=======
 html,
 body {
     height: 100%;
@@ -158,13 +153,11 @@ body::after {
     align-items: center;
     margin-bottom: var(--space-lg);
     flex-shrink: 0;
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 .nav-left {
     display: flex;
     align-items: center;
-<<<<<<< HEAD
     gap: 2rem;
 }
 
@@ -198,7 +191,6 @@ body::after {
     text-decoration: none;
     font-size: 0.875rem;
     transition: color 0.2s;
-=======
     gap: var(--space-sm);
 }
 
@@ -227,7 +219,6 @@ body::after {
     color: #fff;
     padding: 3px 8px;
     border-radius: 4px;
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 .nav-link:hover {
@@ -236,15 +227,12 @@ body::after {
 
 .nav-right {
     display: flex;
-<<<<<<< HEAD
     align-items: center;
     gap: 1rem;
-=======
     gap: var(--space-md);
     font-family: var(--font-mono);
     font-size: 0.9rem;
     color: var(--text-secondary);
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 .search-bar {
@@ -253,7 +241,6 @@ body::after {
     border-radius: 6px;
     padding: 6px 12px;
     display: flex;
-<<<<<<< HEAD
     align-items: center;
     gap: 8px;
     color: #666;
@@ -305,7 +292,6 @@ body::after {
 
 .btn-learn:hover {
     background: #ccc;
-=======
     gap: 0.75rem;
 }
 
@@ -343,13 +329,11 @@ body::after {
     max-width: 700px;
     /* Wider reading area */
     margin: 0 auto;
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 /* ================================
    Hero Section
    ================================ */
-<<<<<<< HEAD
 .container {
     padding-top: 100px;
     /* Space for nav */
@@ -358,7 +342,6 @@ body::after {
     width: 100%;
     position: relative;
     z-index: 10;
-=======
 .upload-section {
     margin-bottom: var(--space-lg);
     flex-shrink: 0;
@@ -375,11 +358,9 @@ body::after {
     border-radius: var(--radius-lg);
     height: 300px;
     /* Taller upload area */
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
     display: flex;
     flex-direction: column;
     align-items: center;
-<<<<<<< HEAD
     flex-grow: 1;
     /* Fill remaining space */
 }
@@ -428,7 +409,6 @@ body::after {
     border-radius: 6px;
     font-weight: 600;
     font-size: 1rem;
-=======
     justify-content: center;
     transition: all var(--transition-normal);
     cursor: pointer;
@@ -500,7 +480,6 @@ body::after {
     font-size: 1rem;
     font-weight: 600;
     border-radius: var(--radius-md);
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
     cursor: pointer;
     transition: all 0.2s;
 }
@@ -532,7 +511,6 @@ body::after {
     display: flex;
     align-items: center;
     justify-content: center;
-<<<<<<< HEAD
     gap: 1rem;
 }
 
@@ -597,7 +575,6 @@ body::after {
     font-weight: 600;
     cursor: pointer;
     margin-top: 10px;
-=======
     gap: 0.75rem;
     margin-left: auto;
     margin-right: auto;
@@ -607,7 +584,6 @@ body::after {
 .analyze-btn:hover:not(:disabled) {
     background: #ccc;
     transform: translateY(-2px);
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 .analyze-btn:disabled {
@@ -615,7 +591,6 @@ body::after {
     cursor: not-allowed;
 }
 
-<<<<<<< HEAD
 /* Preview Image constraint */
 .preview-state img {
     height: 100%;
@@ -623,17 +598,14 @@ body::after {
     width: auto;
     object-fit: contain;
     border-radius: 8px;
-=======
 #file-input {
     display: none;
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 /* ================================
    Results Section 
    ================================ */
 .results-section {
-<<<<<<< HEAD
     margin-top: 2rem;
     padding: 1rem;
     border: 1px solid #333;
@@ -647,7 +619,6 @@ body::after {
 
 .recognition-card {
     margin-bottom: 2rem;
-=======
     display: grid;
     grid-template-columns: 1fr 1.5fr;
     gap: var(--space-lg);
@@ -678,13 +649,11 @@ body::after {
     border: 1px solid var(--color-border);
     border-radius: var(--radius-md);
     padding: var(--space-md);
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 .card-header {
     display: flex;
     justify-content: space-between;
-<<<<<<< HEAD
     margin-bottom: 1rem;
     border-bottom: 1px solid #222;
     padding-bottom: 1rem;
@@ -705,7 +674,6 @@ body::after {
     color: #888;
     font-size: 0.75rem;
     text-transform: uppercase;
-=======
     align-items: center;
     margin-bottom: var(--space-md);
 }
@@ -713,7 +681,6 @@ body::after {
 .card-title {
     font-size: 1.25rem;
     font-weight: 600;
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
 
 .confidence-badge {
@@ -740,7 +707,6 @@ body::after {
 }
 
 .info-value {
-<<<<<<< HEAD
     font-size: 1.25rem;
     font-weight: 700;
 }
@@ -775,7 +741,6 @@ body::after {
     opacity: 0.5;
 }
 
-=======
     font-size: 1.4rem;
     /* Larger Value */
     font-weight: 700;
@@ -898,13 +863,11 @@ body::after {
     background: #444;
 }
 
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 /* Utilities */
 .hidden {
     display: none !important;
 }
 
-<<<<<<< HEAD
 /* ================================
    Technical Background Grid
    ================================ */
@@ -952,7 +915,6 @@ body::after {
     width: 100%;
     height: 100%;
     background: radial-gradient(circle at 50% 30%, rgba(255, 255, 255, 0.08), transparent 40%);
-=======
 /* Responsive Adjustments to ensure it still fits 100vh if screen is short */
 @media (max-height: 800px) {
     body {
@@ -975,5 +937,4 @@ body::after {
     .container {
         padding: 1.5rem;
     }
->>>>>>> eb759815deef66f361c40e476ab7f36d88c06974
 }
