@@ -12,7 +12,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
         rel="stylesheet">
+
 
     <link rel="stylesheet" href="/static/style.css">
 </head>
@@ -57,12 +59,18 @@
             <div class="upload-area" id="upload-area">
                 <input type="file" id="file-input" accept="image/*" hidden>
 
+
                 <div class="upload-content" id="upload-content">
                     <div class="upload-icon">
                         <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                             stroke-width="1.5">
                             <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" stroke-linecap="round"
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="1.5">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" stroke-linecap="round"
                                 stroke-linejoin="round" />
+                            <polyline points="17 8 12 3 7 8" stroke-linecap="round" stroke-linejoin="round" />
+                            <line x1="12" y1="3" x2="12" y2="15" stroke-linecap="round" stroke-linejoin="round" />
                             <polyline points="17 8 12 3 7 8" stroke-linecap="round" stroke-linejoin="round" />
                             <line x1="12" y1="3" x2="12" y2="15" stroke-linecap="round" stroke-linejoin="round" />
                         </svg>
@@ -74,6 +82,11 @@
                 <!-- Preview State -->
                 <div class="preview-state hidden" id="preview-state">
                     <img id="preview-image" src="" alt="Preview">
+                    <button class="remove-btn" id="remove-btn" title="Remove image">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
                     <button class="remove-btn" id="remove-btn" title="Remove image">
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                             stroke-width="2">
@@ -94,6 +107,7 @@
             <div class="loading-state hidden" id="loading-state">
                 <div class="loading-spinner"></div>
                 <p class="loading-text">Compiling vehicle data...</p>
+                <p class="loading-text">Compiling vehicle data...</p>
                 <div class="loading-progress">
                     <div class="progress-bar" id="progress-bar"></div>
                 </div>
@@ -103,9 +117,12 @@
         <!-- Results Section -->
         <section class="results-section hidden" id="results-section">
             <div class="recognition-card">
+            <div class="recognition-card">
                 <div class="card-header">
                     <h3 class="card-title">Analysis Results</h3>
+                    <h3 class="card-title">Analysis Results</h3>
                     <div class="confidence-badge" id="overall-confidence">
+                        <span id="confidence-value">0%</span> Confidence
                         <span id="confidence-value">0%</span> Confidence
                     </div>
                 </div>
@@ -119,6 +136,25 @@
                         <span class="info-label">Year</span>
                         <span class="info-value" id="car-year">—</span>
                     </div>
+                </div>
+
+                <div class="confidence-breakdown">
+                    <div class="breakdown-item">
+                        <div class="breakdown-header">
+                            <span>Model Match</span>
+                            <span id="model-confidence-text">0%</span>
+                        </div>
+                        <div class="confidence-bar">
+                            <div class="confidence-fill" id="model-confidence-fill" style="width: 0%"></div>
+                        </div>
+                    </div>
+                    <div class="breakdown-item">
+                        <div class="breakdown-header">
+                            <span>Year Match</span>
+                            <span id="year-confidence-text">0%</span>
+                        </div>
+                        <div class="confidence-bar">
+                            <div class="confidence-fill" id="year-confidence-fill" style="width: 0%"></div>
                 </div>
 
                 <div class="confidence-breakdown">
