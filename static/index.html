@@ -96,6 +96,10 @@
             </div>
 
             <div class="recognition-card">
+                <div class="result-image-container">
+                    <img id="result-car-image" src="" alt="Analyzed Car" class="result-car-image">
+                </div>
+
                 <div class="vehicle-info">
                     <div class="info-item">
                         <div class="info-label">Make & Model</div>
@@ -109,13 +113,19 @@
 
                 <div class="confidence-breakdown">
                     <div class="breakdown-item">
-                        <div class="info-label">Model Match</div>
+                        <div class="info-label">
+                            Model Match
+                            <span id="model-confidence-text" class="confidence-text-small">0%</span>
+                        </div>
                         <div class="confidence-bar-bg">
                             <div class="confidence-fill" id="model-confidence-fill" style="width: 0%"></div>
                         </div>
                     </div>
                     <div class="breakdown-item">
-                        <div class="info-label" style="margin-top: 1rem;">Year Match</div>
+                        <div class="info-label" style="margin-top: 1rem;">
+                            Year Match
+                            <span id="year-confidence-text" class="confidence-text-small">0%</span>
+                        </div>
                         <div class="confidence-bar-bg">
                             <div class="confidence-fill" id="year-confidence-fill" style="width: 0%"></div>
                         </div>
@@ -134,4 +144,5 @@
     <script src="/static/script.js"></script>
 </body>
 <p class="made-by"><strong>made by Sohan</strong></p>
+
 </html>

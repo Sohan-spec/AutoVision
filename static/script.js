@@ -39,7 +39,8 @@ const elements = {
     modelConfidenceText: document.getElementById('model-confidence-text'),
     yearConfidenceFill: document.getElementById('year-confidence-fill'),
     yearConfidenceText: document.getElementById('year-confidence-text'),
-    specsGrid: document.getElementById('specs-grid')
+    specsGrid: document.getElementById('specs-grid'),
+    resultCarImage: document.getElementById('result-car-image')
 };
 
 // ================================
@@ -179,6 +180,11 @@ function displayResults(data) {
     const carName = formatCarName(data.car);
     const year = data.year;
 
+    // Show result image - use the already loaded preview image
+    if (elements.resultCarImage && elements.previewImage) {
+        elements.resultCarImage.src = elements.previewImage.src;
+    }
+
     // Calculate overall confidence
     const overallConfidence = ((data.confidence.model + data.confidence.year) / 2 * 100).toFixed(1);
 
@@ -251,21 +257,80 @@ function updateConfidenceBadge(confidence) {
 function displayEngineSpecs(engineData) {
     elements.specsGrid.innerHTML = '';
 
-    // Define spec configurations with icons
+    // Define spec configurations with inline SVGs
     const specConfigs = {
-        displacement: { name: 'Displacement', unit: 'L', icon: 'icons/car_displacement.png' },
-        displacement_l: { name: 'Displacement', unit: 'L', icon: 'icons/car_displacement.png' },
-        bhp: { name: 'Power', unit: 'BHP', icon: 'icons/speedometer.png' },
-        torque_nm: { name: 'Torque', unit: 'Nm', icon: 'icons/car_torque.png' },
-        cylinders: { name: 'Cylinders', unit: '', icon: 'icons/car_cylinder.png' },
-        aspiration: { name: 'Aspiration', unit: '', icon: 'icons/aspiration.png' },
-        gearbox: { name: 'Gearbox', unit: '', icon: 'icons/gearbox.png' },
-        fuel: { name: 'Fuel Type', unit: '', icon: 'icons/car_fuel.png' },
-        top_speed_kmh: { name: 'Top Speed', unit: 'km/h', icon: 'icons/speedometer.png' },
-        max_speed: { name: 'Max Speed', unit: 'km/h', icon: 'icons/speedometer.png' },
-        doors: { name: 'Doors', unit: '', icon: 'icons/car_door.png' },
-        seats: { name: 'Seats', unit: '', icon: 'icons/car-seat.png' }
+        displacement: {
+            name: 'Displacement',
+            unit: 'L',
+            icon: '<path d="M19 5h-1.42l-2.58-3H9L6.42 5H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zM9 4h6l1.7 2H7.3L9 4z" />'
+        },
+        displacement_l: {
+            name: 'Displacement',
+            unit: 'L',
+            icon: '<path d="M19 5h-1.42l-2.58-3H9L6.42 5H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zM9 4h6l1.7 2H7.3L9 4z" />'
+        },
+        bhp: {
+            name: 'Power',
+            unit: 'BHP',
+            icon: '<path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />'
+        },
+        torque_nm: {
+            name: 'Torque',
+            unit: 'Nm',
+            icon: '<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>'
+        },
+        cylinders: {
+            name: 'Cylinders',
+            unit: '',
+            icon: '<path d="M5 3v18"/><path d="M19 3v18"/><path d="M5 9h14"/><path d="M5 15h14"/><path d="M9 3v18"/><path d="M15 3v18"/>'
+        },
+        aspiration: {
+            name: 'Aspiration',
+            unit: '',
+            icon: '<path d="M12 3a9 9 0 0 0 0 18 9 9 0 0 0 0-18zm0 4a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z"/>'
+        },
+        gearbox: {
+            name: 'Gearbox',
+            unit: '',
+            icon: '<circle cx="12" cy="12" r="2"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="M4.93 4.93l1.41 1.41"/><path d="M17.66 17.66l1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="M4.93 19.07l1.41-1.41"/><path d="M17.66 6.34l1.41-1.41"/>'
+        },
+        fuel: {
+            name: 'Fuel Type',
+            unit: '',
+            icon: '<path d="M3 22v-8a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v8"/><path d="M8 2h8a2 2 0 0 1 2 2v8H6V4a2 2 0 0 1 2-2z"/><path d="M12 12V6"/>'
+        },
+        top_speed_kmh: {
+            name: 'Top Speed',
+            unit: 'km/h',
+            icon: '<path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm0 18a8 8 0 1 1 0-16 8 8 0 0 1 0 16z"/><path d="M12 6v6l4 2"/>'
+        },
+        max_speed: {
+            name: 'Max Speed',
+            unit: 'km/h',
+            icon: '<path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm0 18a8 8 0 1 1 0-16 8 8 0 0 1 0 16z"/><path d="M12 6v6l4 2"/>'
+        },
+        doors: {
+            name: 'Doors',
+            unit: '',
+            icon: '<rect x="4" y="3" width="16" height="18" rx="2" ry="2"/><path d="M8 12h2"/>'
+        },
+        seats: {
+            name: 'Seats',
+            unit: '',
+            icon: '<path d="M7 11V7a5 5 0 0 1 10 0v4"/><rect x="3" y="11" width="18" height="10" rx="2"/>'
+        },
+        acceleration: {
+            name: 'Acceleration',
+            unit: 's',
+            icon: '<circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>'
+        },
+        drive_type: {
+            name: 'Drive Type',
+            unit: '',
+            icon: '<circle cx="7" cy="17" r="3"/><circle cx="17" cy="17" r="3"/><path d="M2.9 8.8L5 14h14l2.1-5.2a2 2 0 0 0-1.8-2.8H4.7a2 2 0 0 0-1.8 2.8z"/>'
+        }
     };
+
 
     // Create spec cards
     Object.entries(engineData).forEach(([key, spec]) => {
@@ -310,10 +375,14 @@ function createSpecCard(config, spec) {
     const unit = config.unit ? ` ${config.unit}` : '';
     const confidence = (spec.confidence * 100).toFixed(0);
 
-    // Determine icon content (image or fallback text)
-    const iconContent = config.icon.includes('/')
-        ? `<img src="${config.icon}" alt="${config.name}">`
-        : config.icon;
+    // Determine icon content (SVG)
+    let iconContent;
+    if (config.icon.startsWith('<')) {
+        // Just wrap it in an SVG tag if it's just paths, or use it as is if it's full SVG
+        iconContent = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${config.icon}</svg>`;
+    } else {
+        iconContent = config.icon;
+    }
 
     card.innerHTML = `
         <div class="spec-header">

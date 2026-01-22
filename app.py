@@ -108,12 +108,14 @@ infer the remaining engine fields.
 Return ONLY valid JSON in this exact format:
 
 {{
-  "bhp":        {{ "value": number, "confidence": 0.0–1.0 }},
-  "torque_nm":  {{ "value": number, "confidence": 0.0–1.0 }},
-  "cylinders":  {{ "value": number, "confidence": 0.0–1.0 }},
-  "aspiration":{{ "value": string, "confidence": 0.0–1.0 }},
-  "gearbox":   {{ "value": string, "confidence": 0.0–1.0 }},
-  "fuel":      {{ "value": string, "confidence": 0.0–1.0 }}
+  "bhp":          {{ "value": number, "confidence": 0.0–1.0 }},
+  "torque_nm":    {{ "value": number, "confidence": 0.0–1.0 }},
+  "cylinders":    {{ "value": number, "confidence": 0.0–1.0 }},
+  "aspiration":   {{ "value": string, "confidence": 0.0–1.0 }},
+  "gearbox":      {{ "value": string, "confidence": 0.0–1.0 }},
+  "fuel":         {{ "value": string, "confidence": 0.0–1.0 }},
+  "acceleration": {{ "value": number, "confidence": 0.0–1.0, "unit": "s (0-100)" }},
+  "drive_type":   {{ "value": string, "confidence": 0.0–1.0, "options": ["FWD", "RWD", "AWD"] }}
 }}
 
 Confidence rules:
@@ -145,7 +147,9 @@ Return ONLY valid JSON in this exact format:
   "cylinders":    {{ "value": number, "confidence": 0.0–1.0 }},
   "aspiration":   {{ "value": string, "confidence": 0.0–1.0 }},
   "gearbox":      {{ "value": string, "confidence": 0.0–1.0 }},
-  "fuel":         {{ "value": string, "confidence": 0.0–1.0 }}
+  "fuel":         {{ "value": string, "confidence": 0.0–1.0 }},
+  "acceleration": {{ "value": number, "confidence": 0.0–1.0, "unit": "s (0-100)" }},
+  "drive_type":   {{ "value": string, "confidence": 0.0–1.0, "options": ["FWD", "RWD", "AWD"] }}
 }}
 
 Confidence rules:
