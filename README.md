@@ -113,6 +113,6 @@ CARS_CNN/
 ├─ index.html      # Main page
 ├─ style.css       # Design system & layout
 ├─ script.js       # UI logic & API calls
-~~~
 ├─ app.py          # FastAPI backend
 └─ README.md       # This file
+~~~
