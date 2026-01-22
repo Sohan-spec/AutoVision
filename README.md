@@ -45,7 +45,7 @@ You can use Python's built-in HTTP server:
 
 ```bash
 # In the same directory
-python -m http.server 3000
+python -m http.server 8000
 ```
 
 Or use any other local server like:
@@ -57,7 +57,7 @@ Or use any other local server like:
 
 Navigate to:
 ```
-http://localhost:3000
+http://localhost:8000
 ```
 
 ## 🎮 How to Use
