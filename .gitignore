@@ -32,3 +32,5 @@ docker-compose.override.yml
 
 # Logs
 *.log
+
+saved_models.zip
