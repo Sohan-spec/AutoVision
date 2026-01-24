@@ -34,3 +34,4 @@ docker-compose.override.yml
 *.log
 
 D:\CompCars\CARS_CNN\static\test_cars.zip
+D:\CompCars\CARS_CNN\static\test_cars
