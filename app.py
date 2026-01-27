@@ -14,7 +14,7 @@ import os
 
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/api/generate")
+OLLAMA_URL = os.getenv("OLLAMA_URL", "http://ollama:11434/api/generate")
 
 MODEL_PATH = "saved_models/resnet50_compcars_20260111_154612.pth"
 YEAR_MODEL_PATH = "saved_models/multitask_car_net.pth"
